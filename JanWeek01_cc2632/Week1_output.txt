@@ -1,0 +1,176 @@
+****Solve the quadratic equation*****
+root0 = 0.0
+root1 = -1.0000000000000001E23
+root2 = -1.0
+root3 = -Infinity
+
+*****Observe NaN and Inf handling in double*****
+Infinity
+NaN
+
+*****Observe NaN and Inf handling in integers*****
+Integers can not handle NaN.
+Integers can not handle Inf.
+
+*****Observe overflow handling in integers*****
+2
+2
+3
+6
+4
+24
+5
+120
+6
+720
+7
+5040
+8
+40320
+9
+362880
+10
+3628800
+11
+39916800
+12
+479001600
+13
+1932053504
+14
+1278945280
+15
+2004310016
+16
+2004189184
+17
+-288522240
+18
+-898433024
+19
+109641728
+20
+-2102132736
+21
+-1195114496
+22
+-522715136
+23
+862453760
+24
+-775946240
+25
+2076180480
+26
+-1853882368
+27
+1484783616
+28
+-1375731712
+29
+-1241513984
+-62075699
+-3267142
+-181507
+-10676
+-667
+-44
+-3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+*****Test +0, -0, INF, NINF, NaN*****
+Results when input is 1.0
+false
+false
+false
+false
+false
+
+Results when input is -1.0
+false
+false
+false
+false
+false
+
+Results when input is 1.7976931348623157E308
+false
+false
+false
+false
+false
+
+Results when input is -1.7976931348623157E308
+false
+false
+false
+false
+false
+
+Results when input is 0.0
+true
+false
+false
+false
+false
+
+Results when input is -0.0
+false
+true
+false
+false
+false
+
+Results when input is Infinity
+false
+false
+true
+false
+false
+
+Results when input is -Infinity
+false
+false
+false
+true
+false
+
+Results when input is NaN
+false
+false
+false
+false
+true
+
+
+*****Observe the exception handling on your platform*****
+1.234567890123456E-308
+1.234567890123457E-309
+1.23456789012346E-310
+1.2345678901233E-311
+1.234567890124E-312
+1.2345678901E-313
+1.23456789E-314
+1.23456789E-315
+1.2345679E-316
+1.234568E-317
+1.234566E-318
+1.23457E-319
+1.2347E-320
+1.235E-321
+1.24E-322
+1.0E-323
+0.0
+0.0
+0.0
