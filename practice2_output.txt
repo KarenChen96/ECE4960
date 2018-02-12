@@ -1,0 +1,319 @@
+**********ground truth of evaluating f(t)**********
+0.0
+Ground Truth value is: 1.0
+
+1.0
+Ground Truth value is: 0.36787944117144233
+
+2.0
+Ground Truth value is: 0.1353352832366127
+
+3.0
+Ground Truth value is: 0.04978706836786395
+
+4.0
+Ground Truth value is: 0.018315638888734186
+
+5.0
+Ground Truth value is: 0.006737946999085469
+
+6.0
+Ground Truth value is: 0.0024787521766663594
+
+7.0
+Ground Truth value is: 9.118819655545166E-4
+
+8.0
+Ground Truth value is: 3.3546262790251196E-4
+
+9.0
+Ground Truth value is: 1.2340980408667962E-4
+
+10.0
+Ground Truth value is: 4.5399929762484875E-5
+
+11.0
+Ground Truth value is: 1.670170079024567E-5
+
+12.0
+Ground Truth value is: 6.144212353328214E-6
+
+13.0
+Ground Truth value is: 2.260329406981056E-6
+
+14.0
+Ground Truth value is: 8.315287191035685E-7
+
+15.0
+Ground Truth value is: 3.0590232050182605E-7
+
+16.0
+Ground Truth value is: 1.1253517471925921E-7
+
+17.0
+Ground Truth value is: 4.13993771878517E-8
+
+18.0
+Ground Truth value is: 1.5229979744712642E-8
+
+19.0
+Ground Truth value is: 5.602796437537274E-9
+
+20.0
+Ground Truth value is: 2.06115362243856E-9
+
+**********when delta(t) = 0.5, forward and backward methods of evaluating f(t)**********
+0.0
+Forward Euler value is: 0.8243606353500641
+Backward Euler value is: 1.0991475138000855
+
+1.0
+Forward Euler value is: 0.3032653298563167
+Backward Euler value is: 0.4043537731417556
+
+2.0
+Forward Euler value is: 0.11156508007421492
+Backward Euler value is: 0.14875344009895322
+
+3.0
+Forward Euler value is: 0.0410424993119494
+Backward Euler value is: 0.05472333241593253
+
+4.0
+Forward Euler value is: 0.015098691711159254
+Backward Euler value is: 0.020131588948212337
+
+5.0
+Forward Euler value is: 0.005554498269121155
+Backward Euler value is: 0.007405997692161539
+
+6.0
+Forward Euler value is: 0.002043385719232034
+Backward Euler value is: 0.002724514292309379
+
+7.0
+Forward Euler value is: 7.517195964887865E-4
+Backward Euler value is: 0.001002292795318382
+
+8.0
+Forward Euler value is: 2.765421850739169E-4
+Backward Euler value is: 3.687229134318892E-4
+
+9.0
+Forward Euler value is: 1.0173418450532214E-4
+Backward Euler value is: 1.3564557934042952E-4
+
+10.0
+Forward Euler value is: 3.742591494385031E-5
+Backward Euler value is: 4.990121992513375E-5
+
+11.0
+Forward Euler value is: 1.3768224674873586E-5
+Backward Euler value is: 1.8357632899831448E-5
+
+12.0
+Forward Euler value is: 5.065046799315359E-6
+Backward Euler value is: 6.753395732420478E-6
+
+13.0
+Forward Euler value is: 1.8633265860393367E-6
+Backward Euler value is: 2.484435448052449E-6
+
+14.0
+Forward Euler value is: 6.854795431920426E-7
+Backward Euler value is: 9.139727242560568E-7
+
+15.0
+Forward Euler value is: 2.521738312839442E-7
+Backward Euler value is: 3.3623177504525895E-7
+
+16.0
+Forward Euler value is: 9.276956813079898E-8
+Backward Euler value is: 1.2369275750773197E-7
+
+17.0
+Forward Euler value is: 3.4128016881674376E-8
+Backward Euler value is: 4.5504022508899164E-8
+
+18.0
+Forward Euler value is: 1.2554995778719921E-8
+Backward Euler value is: 1.673999437162656E-8
+
+19.0
+Forward Euler value is: 4.618724830985302E-9
+Backward Euler value is: 6.158299774647069E-9
+
+20.0
+Forward Euler value is: 1.6991339097475374E-9
+Backward Euler value is: 2.265511879663383E-9
+
+**********when delta(t) = 1.0, forward and backward methods of evaluating f(t)**********
+0.0
+Forward Euler value is: 0.0
+Backward Euler value is: 1.3591409142295225
+
+1.0
+Forward Euler value is: 0.0
+Backward Euler value is: 0.5
+
+2.0
+Forward Euler value is: 0.0
+Backward Euler value is: 0.18393972058572117
+
+3.0
+Forward Euler value is: 0.0
+Backward Euler value is: 0.06766764161830635
+
+4.0
+Forward Euler value is: 0.0
+Backward Euler value is: 0.024893534183931976
+
+5.0
+Forward Euler value is: 0.0
+Backward Euler value is: 0.009157819444367093
+
+6.0
+Forward Euler value is: 0.0
+Backward Euler value is: 0.0033689734995427344
+
+7.0
+Forward Euler value is: 0.0
+Backward Euler value is: 0.0012393760883331797
+
+8.0
+Forward Euler value is: 0.0
+Backward Euler value is: 4.559409827772583E-4
+
+9.0
+Forward Euler value is: 0.0
+Backward Euler value is: 1.6773131395125598E-4
+
+10.0
+Forward Euler value is: 0.0
+Backward Euler value is: 6.170490204333981E-5
+
+11.0
+Forward Euler value is: 0.0
+Backward Euler value is: 2.2699964881242437E-5
+
+12.0
+Forward Euler value is: 0.0
+Backward Euler value is: 8.350850395122835E-6
+
+13.0
+Forward Euler value is: 0.0
+Backward Euler value is: 3.072106176664107E-6
+
+14.0
+Forward Euler value is: 0.0
+Backward Euler value is: 1.130164703490528E-6
+
+15.0
+Forward Euler value is: 0.0
+Backward Euler value is: 4.1576435955178426E-7
+
+16.0
+Forward Euler value is: 0.0
+Backward Euler value is: 1.5295116025091303E-7
+
+17.0
+Forward Euler value is: 0.0
+Backward Euler value is: 5.6267587359629605E-8
+
+18.0
+Forward Euler value is: 0.0
+Backward Euler value is: 2.069968859392585E-8
+
+19.0
+Forward Euler value is: 0.0
+Backward Euler value is: 7.614989872356321E-9
+
+20.0
+Forward Euler value is: 0.0
+Backward Euler value is: 2.801398218768637E-9
+
+**********when delta(t) = 2.0, forward and backward methods of evaluating f(t)**********
+0.0
+Forward Euler value is: -7.3890560989306495
+Backward Euler value is: 2.4630186996435497
+
+1.0
+Forward Euler value is: -2.718281828459045
+Backward Euler value is: 0.9060939428196817
+
+2.0
+Forward Euler value is: -1.0
+Backward Euler value is: 0.3333333333333333
+
+3.0
+Forward Euler value is: -0.36787944117144233
+Backward Euler value is: 0.12262648039048077
+
+4.0
+Forward Euler value is: -0.1353352832366127
+Backward Euler value is: 0.045111761078870896
+
+5.0
+Forward Euler value is: -0.04978706836786395
+Backward Euler value is: 0.01659568945595465
+
+6.0
+Forward Euler value is: -0.018315638888734186
+Backward Euler value is: 0.006105212962911395
+
+7.0
+Forward Euler value is: -0.006737946999085469
+Backward Euler value is: 0.0022459823330284894
+
+8.0
+Forward Euler value is: -0.0024787521766663594
+Backward Euler value is: 8.262507255554531E-4
+
+9.0
+Forward Euler value is: -9.118819655545166E-4
+Backward Euler value is: 3.039606551848388E-4
+
+10.0
+Forward Euler value is: -3.3546262790251196E-4
+Backward Euler value is: 1.1182087596750399E-4
+
+11.0
+Forward Euler value is: -1.2340980408667962E-4
+Backward Euler value is: 4.1136601362226536E-5
+
+12.0
+Forward Euler value is: -4.5399929762484875E-5
+Backward Euler value is: 1.5133309920828292E-5
+
+13.0
+Forward Euler value is: -1.670170079024567E-5
+Backward Euler value is: 5.567233596748556E-6
+
+14.0
+Forward Euler value is: -6.144212353328214E-6
+Backward Euler value is: 2.048070784442738E-6
+
+15.0
+Forward Euler value is: -2.260329406981056E-6
+Backward Euler value is: 7.534431356603519E-7
+
+16.0
+Forward Euler value is: -8.315287191035685E-7
+Backward Euler value is: 2.771762397011895E-7
+
+17.0
+Forward Euler value is: -3.0590232050182605E-7
+Backward Euler value is: 1.0196744016727535E-7
+
+18.0
+Forward Euler value is: -1.1253517471925921E-7
+Backward Euler value is: 3.7511724906419734E-8
+
+19.0
+Forward Euler value is: -4.13993771878517E-8
+Backward Euler value is: 1.3799792395950567E-8
+
+20.0
+Forward Euler value is: -1.5229979744712642E-8
+Backward Euler value is: 5.0766599149042136E-9
+
