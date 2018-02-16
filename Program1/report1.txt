@@ -1,0 +1,17 @@
+*****Observe Integer overflow*****
+pow(10, 10) is overflow
+pow(2, 31) is overflow 
+13! is overflow
+ 
+*****Observe Integer divided by 0*****
+Integer/0 is an Arithmetic Exception. 
+
+*****Observe Floating-point overflows: *****
+pow(10, 39.0) is overflow 
+pow(2, 128.0) is overflow
+
+*****Observe floating point gradual underflow with different methods*****
+When a1 and b1 are less than the float normal minimum value, we can still obtain a1-b1 != 0 
+or a1/b1 != 1 (2a = b), which means that a1 != b1, showing that gradual underflow exists.
+
+ 

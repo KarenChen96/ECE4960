@@ -1,0 +1,236 @@
+Tests for different exceptions.
+
+*****Observe Integer overflow*****
+
+----Use multiplication to cause integer overflow----
+The result of pow(10, 8) is: 1.0E8
+The result of pow(10, 9) is: 1.0E9
+The result of pow(10, 10) is: 1.410065408E9
+pow(10, 10) is overflow 
+ 
+Conclusion: The max multiplication (of 10) can be correctly calculated in Integer is pow(10,10).
+When calculate numbers which are larger than pow(10,31), the result will become 0.
+ 
+The result of pow(2, 30) is: 1.073741824E9
+The result of pow(2, 31) is: -2.147483648E9
+pow(2, 31) is overflow 
+ 
+Conclusion: The max multiplication (of 2) can be correctly calculated in Integer is pow(2,31).
+When calculate numbers which are larger than pow(2,31), the result will become 0.
+
+----Use factorials to cause integer overflow----
+The result of 8! is: 40320.0
+The result of 9! is: 362880.0
+The result of 10! is: 3628800.0
+The result of 11! is: 3.99168E7
+The result of 12! is: 4.790016E8
+The result of 13! is: 1.932053504E9
+13! is overflow 
+Conclusion: The max factorials can be correctly calculated in Integer is 13!.
+When calculate numbers which are larger than 33!, the result will become 0.
+
+
+
+*****Observe Integer divided by 0*****
+----Use a variable to create such exception----
+Integer/0 is an Arithmetic Exception. 
+
+
+
+*****Observe Floating-point overflows: *****
+----Use multiplication of 10 to cause Floating-point overflow----
+The result of pow(10, 20.0) is: 1.0E20
+The result of pow(10, 21.0) is: 1.0E21
+The result of pow(10, 22.0) is: 1.0E22
+The result of pow(10, 23.0) is: 1.0E23
+The result of pow(10, 24.0) is: 1.0E24
+The result of pow(10, 25.0) is: 1.0000001E25
+The result of pow(10, 26.0) is: 1.0E26
+The result of pow(10, 27.0) is: 1.00000006E27
+The result of pow(10, 28.0) is: 1.0000001E28
+The result of pow(10, 29.0) is: 1.0E29
+The result of pow(10, 30.0) is: 1.0E30
+The result of pow(10, 31.0) is: 1.0E31
+The result of pow(10, 32.0) is: 1.0E32
+The result of pow(10, 33.0) is: 1.0000001E33
+The result of pow(10, 34.0) is: 1.00000004E34
+The result of pow(10, 35.0) is: 1.0E35
+The result of pow(10, 36.0) is: 1.00000004E36
+The result of pow(10, 37.0) is: 1.00000006E37
+The result of pow(10, 38.0) is: 1.0000001E38
+The result of pow(10, 39.0) is: Infinity
+pow(10, 39.0) is overflow 
+ 
+Conclusion: The max multiplication (of 10) can be correctly calculated in Float is pow(10,39.0).
+The calculated numbers won't become 0 when become larger than the maximum, instead it will always be infinity.
+ 
+ 
+ 
+----Use multiplication of 2 to cause Floating-point overflow----
+The result of pow(2, 120.0) is: 1.329228E36
+The result of pow(2, 121.0) is: 2.658456E36
+The result of pow(2, 122.0) is: 5.316912E36
+The result of pow(2, 123.0) is: 1.0633824E37
+The result of pow(2, 124.0) is: 2.1267648E37
+The result of pow(2, 125.0) is: 4.2535296E37
+The result of pow(2, 126.0) is: 8.507059E37
+The result of pow(2, 127.0) is: 1.7014118E38
+The result of pow(2, 128.0) is: Infinity
+pow(2, 128.0) is overflow 
+ 
+Conclusion: The max multiplication (of 2) can be correctly calculated in Float is pow(2,128.0).
+The calculated numbers won't become 0 when become larger than the maximum, instead it will always be infinity.
+
+
+
+*****Observe floating-point operations of INF and NINF*****
+----Observe INF behaviors in following functions----
+The result of 1/INF is: 0.0
+The result of sin(INF) is: NaN
+The result of exp(INF) is: Infinity
+
+----Observe NINF behaviors in following functions----
+The result of 1/NINF is: -0.0
+The result of sin(NINF) is: NaN
+The result of exp(NINF) is: 0.0
+
+----Observe INF's propagation----
+log(sin(INF) is: NaN
+Log(exp(INF) is: Infinity
+
+----Observe NINF's propagation----
+log(sin(NINF) is: NaN
+Log(exp(NINF) is: -Infinity
+
+----Observe INF's interaction with INF----
+INF + INF is£º Infinity
+INF - INF is£º NaN
+INF * INF is£º Infinity
+INF / INF is£º NaN
+
+----Observe NINF's interaction with NINF----
+NINF + NINF is£º -Infinity
+NINF - NINF is£º NaN
+NINF * NINF is£º Infinity
+NINF / NINF is£º NaN
+
+----Observe INF's interaction with NINF----
+INF + NINF is£º NaN
+INF - NINF is£º Infinity
+INF * NINF is£º -Infinity
+INF / NINF is£º NaN
+
+Conclusion: The propagation and interaction of INF and NINF are unpredictable, the result will be NaN or INF or NINF.
+
+
+
+*****Observe floating-point operations of NaN*****
+
+----Detect NaN----
+Create NaN by dividing two NINF: x1 / x3 = Infinity/Infinity = NaN
+
+----Detect NaN----
+The result of NaN == NaN is: false
+Conclusion: If a number is not equal to itself, then it is not a nunmber.
+
+----Observe NaN's propagation----
+log(sin(NaN) is£º NaN
+Log(exp(NaN) is: NaN
+Conclusion: The result of NaN's propagation is NaN.
+
+----Observe NaN's interaction with other exception----
+ 
+NaN interacts with integer divided by 0 is Arithmetic Exception. 
+
+----NaN interacts with INF----
+The result of NaN + INF is: NaN
+The result of NaN - INF is: NaN
+The result of NaN * INF is: NaN
+The result of NaN / INF is: NaN
+ 
+----NaN interacts with NINF----
+The result of NaN + NINF is: NaN
+The result of NaN - NINF is: NaN
+The result of NaN * NINF is: NaN
+The result of NaN / NINF is: NaN
+Conclusion: The result of NaN's interaction with others are NaN 
+
+
+
+*****Observe signed zero handling by performing different functions*****
+
+The result of log(+0) is: -Infinity
+
+The result of log(-0) is: -Infinity
+
+The result of sin(+0)/+0 is: NaN
+
+The result of sin(-0)/-0 is: NaN
+
+The result of sin(-0)/|-0| is: NaN
+
+
+
+*****Observe floating point gradual underflow with different methods*****
+----Observing floating gradual underflow by performing a1-b1 and a1/b1 with a starting with 1.17549435E-38 and b starting with 5.877472E-39----
+a1 is: 1.17549435E-38; b1 is: 5.877472E-39
+a1-b1 is: 5.877472E-39
+a1/b1 is: 2.0
+
+a1 is: 1.175495E-39; b1 is: 5.87747E-40
+a1-b1 is: 5.87748E-40
+a1/b1 is: 2.0000024
+
+a1 is: 1.1755E-40; b1 is: 5.8775E-41
+a1-b1 is: 5.8775E-41
+a1/b1 is: 2.0
+
+a1 is: 1.1755E-41; b1 is: 5.877E-42
+a1-b1 is: 5.878E-42
+a1/b1 is: 2.0002384
+
+a1 is: 1.176E-42; b1 is: 5.87E-43
+a1-b1 is: 5.89E-43
+a1/b1 is: 2.0023866
+
+a1 is: 1.18E-43; b1 is: 5.9E-44
+a1-b1 is: 5.9E-44
+a1/b1 is: 2.0
+
+a1 is: 1.1E-44; b1 is: 5.6E-45
+a1-b1 is: 5.6E-45
+a1/b1 is: 2.0
+
+a1 is: 1.4E-45; b1 is: 0.0
+a1-b1 is: 1.4E-45
+a1/b1 is: Infinity
+
+Conclusion: When a1 and b1 are less than the float normal minimum value, we can still obtain a1-b1 != 0 or a1/b1 != 1 (2a = b), which means that a1 != b1, showing that gradual underflow exists.
+
+----Observing floating gradual underflow by performing sin(1.23456789012345 * a3)/a3 with a3 starting with 1.17549435E-38----
+When a3 is 1.17549435E-38, the result of sin(1.23456789012345 * a3)/a3 is: 1.23456789012345
+When a3 is 1.175495E-39, the result of sin(1.23456789012345 * a3)/a3 is: 1.23456789012345
+When a3 is 1.1755E-40, the result of sin(1.23456789012345 * a3)/a3 is: 1.23456789012345
+When a3 is 1.1755E-41, the result of sin(1.23456789012345 * a3)/a3 is: 1.23456789012345
+When a3 is 1.176E-42, the result of sin(1.23456789012345 * a3)/a3 is: 1.23456789012345
+When a3 is 1.18E-43, the result of sin(1.23456789012345 * a3)/a3 is: 1.23456789012345
+When a3 is 1.1E-44, the result of sin(1.23456789012345 * a3)/a3 is: 1.23456789012345
+When a3 is 1.4E-45, the result of sin(1.23456789012345 * a3)/a3 is: 1.23456789012345
+When a3 is 0.0, the result of sin(1.23456789012345 * a3)/a3 is: NaN
+When a3 is 0.0, the result of sin(1.23456789012345 * a3)/a3 is: NaN
+When a3 is 0.0, the result of sin(1.23456789012345 * a3)/a3 is: NaN
+When a3 is 0.0, the result of sin(1.23456789012345 * a3)/a3 is: NaN
+When a3 is 0.0, the result of sin(1.23456789012345 * a3)/a3 is: NaN
+When a3 is 0.0, the result of sin(1.23456789012345 * a3)/a3 is: NaN
+When a3 is 0.0, the result of sin(1.23456789012345 * a3)/a3 is: NaN
+When a3 is 0.0, the result of sin(1.23456789012345 * a3)/a3 is: NaN
+
+Conclusion: When a2 are less than the float normal minimum value, we can still calculate the result of the function until a2 > 1.4*E-45, which means that gradual underflow exists.
+
+
+
+*****Calculate PI with 30 digits*****
+
+Calculated pi (approx., 1000000 terms and 30 Decimal Places): 3.141591653589793238712643383800
+Actual pi: 3.141592653589793
+Conclusion: With N increasing, the calculated result will be closer to PI. 
