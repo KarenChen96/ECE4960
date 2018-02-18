@@ -1,3 +1,5 @@
+Lecture3_practice4: Calculate numerical approximations and errors for the function by using different methods.
+
 Lecture4_practice1: Create the sparse matrix A in the row compressed format; 
                     Implement the function retrieveElement( ).  
                     
