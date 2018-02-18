@@ -1,0 +1,4 @@
+Lecture4_practice1: Create the sparse matrix A in the row compressed format; 
+                    Implement the function retrieveElement( ).  
+                    
+Lecture4_practice2: Use the row-compressed storage and the full-matrix representations to implement the vector product.
