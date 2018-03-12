@@ -1,0 +1,86 @@
+-----The main test for calculating the solution for an equation using iterative solver(Jacobi Solver)----- 
+*****Calculate the resolution using Jacobi Iterative solver*****
+When b = b1, Iteration that are needed for convergence is: 4
+The normalized residual norm of iterative solver to b1 is: 1.458435828213199E-9
+ 
+When b = b2, Iteration that are needed for convergence is: 4
+The normalized residual norm of iterative solver to b2 is: 1.6660286669987395E-9
+ 
+When b = b3, Iteration that are needed for convergence is: 6
+The normalized residual norm of iterative solver to b3 is: 1.793087235983254E-9
+ 
+ 
+*****Comments on the results*****
+1. Observation:(1) Under the three cases, the normalized residual norm in the solution decrease with the number of iterations, which means the convergence of the solver is achieved.
+(2) The monotonic convergence and relatively small normalized residual norm reflects that this problem is a well-conditioned one.
+(3) Iterative solver's edge is that it can change the convergence condition
+ 
+ 
+*****Computational time and memory usage checks*****
+Time complexity is O(n^2) (n=5000)
+Computational time is: 9352380891ns
+Memory usage is: 217130616bytes
+ 
+
+
+-----Tests for all helper functions that are used when calculating solutions using Jacobi Solver.-----
+
+This is the first level test which tests the functions that have been called directly in jacobi solution.
+
+********1. Test for functions in class sparse_op (helper functions for sparse matrix(in compressed format))********
+********Method: Compare the results obtained by matrixs in row-compressed format and in full format respectively.********
+ 
+(1) Test for obtaining negative lower matrix of a matrix (obtain L):
+The lower matrix of the matrix in row-compressed and in full format is the same: true
+ 
+(2) Test for obtaining negative upper matrix of a matrix (obtain U):
+The upper matrix of the matrix in row-compressed and in full format is the same: true
+ 
+(3) Test for obtaining diagonal matrix of a matrix (obtain D):
+The diagonal matrix of the matrix in row-compressed and in full format is the same: true
+ 
+(4) Test for obtaining inverse matrix of a diagonal matrix:
+The inverse matrix of a diagonal matrix in row-compressed and in full format is the same: true
+ 
+(5) Test for obtaining multiplication between a diagonal matrix and a normal matrix:
+The multiplication result of matrixs in row-compressed and in full format is the same: true
+ 
+(6) Test for obtaining addition between two matrixs:
+The multiplication result of matrixs in row-compressed and in full format is the same: true
+ 
+*****2. Test for functions in class formula(some basic calculations)*****
+(1) Test the correctness of claculating second norm of a vector.
+********Method: Compare the results of multiply a vector by itself and the second norm of it.********
+The result of multiply vector x by itself and the second norm of it is the same: true
+ 
+(2) Test the correctness of claculating normalized residual norm of the solution.
+********Method: Compare the results of function diff and direct calculation, in the case of two vectors are the same and are different.********
+a. When the calculated result is the same with the expected result: 
+The normalized residual norm of using function diff and direct calculation are the same: true
+ 
+b. When the calculated result is different with the expected result: 
+The normalized residual norm of using function diff and direct calculation are the same: true
+ 
+ 
+*****3. Test for the correctness of claculating productAx*****
+********Method: Compare the results of multiply a vector and martixs in row-compressed format and in row-compressde format.********
+The vector products of using row-compressed format and using full-matrix repersentations are the same: true
+
+
+This is the second level test which tests the functions that have been called in tested funcitons in level1.
+
+*****1. Test for the correctness of retrieving an element from a row-compressed matrix*****
+********Method: Compare the results of retrieving element from matrixs od row-compressed format and in row-compressde format.********
+The results of retrieving any element using row-compressed format and using full-matrix repersentations are the same: true
+
+
+*****Comments on the results*****
+All flag values are true which means that all test cases for helper funcitons are passed.
+ 
+ 
+*****Computational time and memory usage checks*****
+Computational time is: 11005720ns
+Memory usage is: 2013608bytes
+
+
+ 
