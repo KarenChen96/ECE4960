@@ -1,17 +1,17 @@
 In this program, we try to use an iterative solver to solve Linear Systems of Equations: Ax = b. I implement Jacobi solver in my code.
 
-To express the iterative expression of the solution xk, some martix that are derived from A are needed. 
+(1)To express the iterative expression of the solution xk, some martix that are derived from A are needed. 
+   So I created a class named "sparse_op" which contains operations to a sparse matrix, including 
+   obtaining upper matrix, lower matrix, etc. 
 
-So I created a class named "sparse_op" which contains operations to a sparse matrix, including 
-obtaining upper matrix, lower matrix, etc. 
+(2) I also called function "Row_productAx" which was written before to do some necessary calculations.
 
-I also called function "Row_productAx" which was written before to do some necessary calculations.
+(3) Besides, I have a class named "formula" which contains some basic operations to a vector, such like obtaining 
+    first norm and second norm.
 
-Besides, I have a class named "formula" which contains some basic operations to a vector, such like obtaining 
-first norm and second norm.
+(4) File "TestForFunctions" has tested all helper functions that have been called in the Jacobi solution, 
+    and file "mainTest" is the test for Jacobi method. File reading is also included in file "mainTest". 
 
-File "TestForFunctions" has tested all helper functions that have been called in the Jacobi solution, 
-and file "mainTest" is the test for Jacobi method. File reading is also eralized in file "mainTest". 
+(5) Other files are the implementations for every method, for example, "jacobi" is the detialed implementaion for Jacobi solver.
 
-Other files are the implementations for every method. "jacobi" is the implementaion for Jacobi solver.
-
+(6) TXT file "report" is the output of all test cases.
