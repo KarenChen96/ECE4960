@@ -1,0 +1,10 @@
+This is Programming for Assignment3: Parameter Extraction from Least-Square Fitting
+
+Clarification:
+•	Task 1: the implementation, testing and validation of matrix solver is in matrixSolver.java
+•	The implementation of Task 2,4,6,7 are in mainP3.java
+•	The code of Task 3 and Task 5 are in task3.matlab / task5.matlab in the file Plots
+•	Related methods of this project are in EKVModel.java, rowFucntion.java(basic method of matrix) and test.java( method of second norm)
+•	Checks for additional helper functions are in testClassP3.java
+•	There are detailed output for task1, task6 task7 and testClass.
+•	Simple output is in Project3SimpleOutput.txt
