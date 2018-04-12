@@ -1,0 +1,51 @@
+
+(1) Task2
+
+
+When input x  {1,10,50,100,150,180,200,220,300,500};
+
+From linear regression
+the power m is -0.4986393577731087, and the coefficient c is 22.77749448598143
+the norm of m is 0.5013606422268913, the norm of a is 2.7774944859814283
+From Quasi Newton method 
+the power m is -1.0000000000000004, and the coefficient c is 20.000000000000004
+the norm of m is 4.440892098500626E-16, the norm of a is 3.552713678800501E-15
+
+（2）Taks4
+
+Quasi-Newton method. —— converge
+
+the counter is 1
+the Is is 9.999999999999996E-8, the k is 0.9999999999999997, the Vth is 1.000000000000001, the second norm of v is 0.0027669813585974794, the delt is 1.9386019080010366
+
+Secant method. —— converge
+the counter is 1
+the Is is 3.0681136821918327E-8, the k is 0.5000001112125411, the Vth is 0.7999998991968501
+the second norm of V (absolute residual) is 2.9630779508517174E-22
+the delta is 9.403274749889826E-11
+
+
+
+(3) Task6
+Quasi-Newton Method
+For unnormalized data:
+    The smallest ||V|| is 2.5381491606342493E-6, the delt is 4.954308893110746E-17
+    the corresponding Is is 1.0E-6, k is 0.9, Vth is 1.1
+
+For normalized data:
+    The smallest V is 115.42362771441067,the delt is 0.02216113976991968
+    the Is is 3.0E-6, k is 0.6, Vth is 1.7
+	
+Secant Method
+For non-normalized data
+	The smallest ||V|| is 8.200055873781653E-4, the Is is 3.0E-6, k is 0.7, Vth is 1.0
+
+For normalized data 
+	The smallest ||V|| is 3090291.2572293007, the Is is 3.0000000000000004E-8, k is 0.5, Vth is 0.8. 
+
+
+（4）Task7
+
+Id is an exponential function of Vgs when k<1 and Vgs < Vth
+Id is quadratic to Vgs when Vds > (Vgs-Vth)*k and Vgs > Vth
+Id is quadratic to Vgs when Vds < (Vgs-Vth)*k and Vgs > Vth

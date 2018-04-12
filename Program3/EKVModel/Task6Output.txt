@@ -1,0 +1,2314 @@
+
+
+(1) For unnormalized data
+    The smallest ||V|| is 2.5381491606342493E-6
+    the corresponding Is is 1.0E-6, k is 0.9, Vth is 1.1
+
+
+the counter is 1
+the Is is 2.9999999999999984E-8, the k is 0.7999999999999997, the Vth is 1.2000000000000015, the second norm of v is 0.0034090770856733104, the delt is 0.7975146904673891
+the counter is 1
+the Is is 2.9999999999999964E-8, the k is 0.7999999999999993, the Vth is 1.3000000000000032, the second norm of v is 0.0034176473005060513, the delt is 0.6695583542372966
+the counter is 1
+the Is is 2.999999999999997E-8, the k is 0.7999999999999993, the Vth is 1.400000000000003, the second norm of v is 0.003426007781856217, the delt is 0.5706911574520452
+the counter is 1
+the Is is 2.9999999999999984E-8, the k is 0.7999999999999997, the Vth is 1.5000000000000016, the second norm of v is 0.0034341512167115292, the delt is 0.4927979716417997
+the counter is 1
+the Is is 2.999999999999994E-8, the k is 0.7999999999999986, the Vth is 1.6000000000000059, the second norm of v is 0.0034420706557620946, the delt is 0.43074286931767086
+the counter is 1
+the Is is 2.9999999999999984E-8, the k is 0.7999999999999997, the Vth is 1.7000000000000013, the second norm of v is 0.003449759073641979, the delt is 0.3805915375059781
+the counter is 1
+the Is is 2.999999999999997E-8, the k is 0.7999999999999994, the Vth is 1.8000000000000027, the second norm of v is 0.0034572091584735985, the delt is 0.33938869102397584
+the counter is 1
+the Is is 2.999999999999994E-8, the k is 0.7999999999999986, the Vth is 1.9000000000000052, the second norm of v is 0.0034644136483541733, the delt is 0.3051379690224648
+the counter is 1
+the Is is 2.999999999999997E-8, the k is 0.7999999999999994, the Vth is 2.0000000000000027, the second norm of v is 0.0034713664023974826, the delt is 0.2766889304036002
+the counter is 1
+the Is is 3.0E-8, the k is 0.8999999999999999, the Vth is 0.8000000000000005, the second norm of v is 0.003330244570008751, the delt is 2.1396607932487988
+the counter is 1
+the Is is 2.999999999999999E-8, the k is 0.8999999999999998, the Vth is 0.900000000000001, the second norm of v is 0.003341439327962067, the delt is 1.6375662966122282
+the counter is 1
+the Is is 2.9999999999999984E-8, the k is 0.8999999999999996, the Vth is 1.0000000000000018, the second norm of v is 0.003352445055087672, the delt is 1.289882273058595
+the counter is 1
+the Is is 2.9999999999999964E-8, the k is 0.8999999999999991, the Vth is 1.1000000000000036, the second norm of v is 0.003363250935885702, the delt is 1.0406822187155522
+the counter is 1
+the Is is 2.9999999999999964E-8, the k is 0.8999999999999991, the Vth is 1.2000000000000033, the second norm of v is 0.0033738461798805343, the delt is 0.8569207455091228
+the counter is 1
+the Is is 2.9999999999999964E-8, the k is 0.8999999999999991, the Vth is 1.3000000000000034, the second norm of v is 0.003384220012272952, the delt is 0.718110885404736
+the counter is 1
+the Is is 2.9999999999999984E-8, the k is 0.8999999999999996, the Vth is 1.4000000000000015, the second norm of v is 0.003394361689211335, the delt is 0.610953475396584
+the counter is 1
+the Is is 2.9999999999999984E-8, the k is 0.8999999999999996, the Vth is 1.5000000000000016, the second norm of v is 0.0034042606927277134, the delt is 0.5265262702856983
+the counter is 1
+the Is is 2.999999999999993E-8, the k is 0.8999999999999984, the Vth is 1.600000000000006, the second norm of v is 0.0034139070300964096, the delt is 0.4593017946356703
+the counter is 1
+the Is is 2.9999999999999984E-8, the k is 0.8999999999999996, the Vth is 1.7000000000000013, the second norm of v is 0.003423290608420324, the delt is 0.4049959469905178
+the counter is 1
+the Is is 2.999999999999997E-8, the k is 0.8999999999999992, the Vth is 1.8000000000000027, the second norm of v is 0.003432400927112311, the delt is 0.360388758252392
+the counter is 1
+the Is is 2.999999999999997E-8, the k is 0.8999999999999992, the Vth is 1.9000000000000026, the second norm of v is 0.0034412274553955987, the delt is 0.32330674339886156
+the counter is 1
+the Is is 2.9999999999999984E-8, the k is 0.8999999999999996, the Vth is 2.0000000000000013, the second norm of v is 0.0034497609288677237, the delt is 0.2925867657834661
+the counter is 1
+the Is is 9.999999999999994E-8, the k is 0.4999999999999998, the Vth is 0.8000000000000018, the second norm of v is 0.0033003575726263655, the delt is 1.7531038204866232
+the counter is 1
+the Is is 9.999999999999994E-8, the k is 0.4999999999999998, the Vth is 0.9000000000000018, the second norm of v is 0.0033139331643462886, the delt is 1.3445594376739871
+the counter is 1
+the Is is 9.999999999999989E-8, the k is 0.49999999999999956, the Vth is 1.0000000000000033, the second norm of v is 0.0033271878454492177, the delt is 1.0611218645276732
+the counter is 1
+the Is is 9.999999999999994E-8, the k is 0.4999999999999998, the Vth is 1.1000000000000016, the second norm of v is 0.0033401139702132795, the delt is 0.8576881615668352
+the counter is 1
+the Is is 9.999999999999989E-8, the k is 0.49999999999999956, the Vth is 1.200000000000003, the second norm of v is 0.0033527040087391454, the delt is 0.7075255141113824
+the counter is 1
+the Is is 9.999999999999978E-8, the k is 0.4999999999999991, the Vth is 1.3000000000000063, the second norm of v is 0.0033649505679743848, the delt is 0.5940017951669035
+the counter is 1
+the Is is 9.99999999999998E-8, the k is 0.4999999999999991, the Vth is 1.400000000000006, the second norm of v is 0.0033768464676740308, the delt is 0.5063770363234043
+the counter is 1
+the Is is 9.999999999999989E-8, the k is 0.49999999999999956, the Vth is 1.5000000000000029, the second norm of v is 0.003388384853768453, the delt is 0.43758356801002124
+the counter is 1
+the Is is 9.999999999999989E-8, the k is 0.49999999999999956, the Vth is 1.600000000000003, the second norm of v is 0.003399559163406784, the delt is 0.3828331947278018
+the counter is 1
+the Is is 9.99999999999999E-8, the k is 0.49999999999999956, the Vth is 1.7000000000000026, the second norm of v is 0.003410362881134319, the delt is 0.3386331416542885
+the counter is 1
+the Is is 9.999999999999994E-8, the k is 0.4999999999999998, the Vth is 1.8000000000000014, the second norm of v is 0.0034207895465660698, the delt is 0.30242778503330203
+the counter is 1
+the Is is 9.999999999999981E-8, the k is 0.4999999999999991, the Vth is 1.900000000000005, the second norm of v is 0.003430833303879229, the delt is 0.27245734614005557
+the counter is 1
+the Is is 9.99999999999999E-8, the k is 0.49999999999999956, the Vth is 2.000000000000002, the second norm of v is 0.0034404896938031353, the delt is 0.24749239286373342
+the counter is 1
+the Is is 9.999999999999993E-8, the k is 0.5999999999999996, the Vth is 0.8000000000000019, the second norm of v is 0.003196728844072917, the delt is 1.9185499202666725
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.5999999999999999, the Vth is 0.9000000000000009, the second norm of v is 0.0032152804247540484, the delt is 1.4668093166527856
+the counter is 1
+the Is is 9.999999999999994E-8, the k is 0.5999999999999996, the Vth is 1.0000000000000018, the second norm of v is 0.0032334397113585765, the delt is 1.154124707003855
+the counter is 1
+the Is is 9.999999999999988E-8, the k is 0.5999999999999994, the Vth is 1.1000000000000034, the second norm of v is 0.003251192908379327, the delt is 0.9301806812645601
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.5999999999999999, the Vth is 1.2000000000000008, the second norm of v is 0.0032685263830161456, the delt is 0.7652101834015982
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.5999999999999999, the Vth is 1.300000000000001, the second norm of v is 0.00328542667393284, the delt is 0.6407176275120168
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.5999999999999999, the Vth is 1.4000000000000006, the second norm of v is 0.0033018805927593022, the delt is 0.5447404152932902
+the counter is 1
+the Is is 9.999999999999989E-8, the k is 0.5999999999999994, the Vth is 1.5000000000000029, the second norm of v is 0.003317875470974251, the delt is 0.4694262768361237
+the counter is 1
+the Is is 9.999999999999989E-8, the k is 0.5999999999999994, the Vth is 1.600000000000003, the second norm of v is 0.003333399198756759, the delt is 0.4095640168527148
+the counter is 1
+the Is is 9.999999999999989E-8, the k is 0.5999999999999994, the Vth is 1.7000000000000026, the second norm of v is 0.0033484396796810718, the delt is 0.36129923381998463
+the counter is 1
+the Is is 9.999999999999994E-8, the k is 0.5999999999999998, the Vth is 1.8000000000000014, the second norm of v is 0.003362984667502547, the delt is 0.3217842407557093
+the counter is 1
+the Is is 9.99999999999998E-8, the k is 0.5999999999999989, the Vth is 1.900000000000005, the second norm of v is 0.0033770225770058727, the delt is 0.2890797484360976
+the counter is 1
+the Is is 9.99999999999998E-8, the k is 0.599999999999999, the Vth is 2.000000000000005, the second norm of v is 0.0033905441400869573, the delt is 0.2619009581781164
+the counter is 1
+the Is is 9.999999999999986E-8, the k is 0.6999999999999992, the Vth is 0.8000000000000039, the second norm of v is 0.0030812437716836814, the delt is 2.136447195538998
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.6999999999999997, the Vth is 0.900000000000001, the second norm of v is 0.003105049427932466, the delt is 1.6265003570056025
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.6999999999999997, the Vth is 1.0000000000000009, the second norm of v is 0.003128418183756047, the delt is 1.2746450492818353
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.6999999999999997, the Vth is 1.100000000000001, the second norm of v is 0.003151327688062742, the delt is 1.02338753722382
+the counter is 1
+the Is is 9.999999999999993E-8, the k is 0.6999999999999996, the Vth is 1.2000000000000017, the second norm of v is 0.003173755806304094, the delt is 0.8388020020924088
+the counter is 1
+the Is is 9.999999999999988E-8, the k is 0.6999999999999993, the Vth is 1.3000000000000034, the second norm of v is 0.0031956806095660025, the delt is 0.6998655442376142
+the counter is 1
+the Is is 9.999999999999994E-8, the k is 0.6999999999999996, the Vth is 1.4000000000000015, the second norm of v is 0.003217080480441242, the delt is 0.5929823266649703
+the counter is 1
+the Is is 9.999999999999994E-8, the k is 0.6999999999999996, the Vth is 1.5000000000000016, the second norm of v is 0.003237934517475621, the delt is 0.5092104427585051
+the counter is 1
+the Is is 9.999999999999994E-8, the k is 0.6999999999999996, the Vth is 1.6000000000000016, the second norm of v is 0.0032582227652655977, the delt is 0.4427500562826945
+the counter is 1
+the Is is 9.999999999999994E-8, the k is 0.6999999999999996, the Vth is 1.7000000000000013, the second norm of v is 0.0032779252523342495, the delt is 0.38925956997229505
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.6999999999999998, the Vth is 1.8000000000000007, the second norm of v is 0.003297021576690231, the delt is 0.3455184112621324
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.6999999999999998, the Vth is 1.9000000000000006, the second norm of v is 0.0033154919058583695, the delt is 0.3093488460926357
+the counter is 1
+the Is is 9.999999999999994E-8, the k is 0.6999999999999996, the Vth is 2.0000000000000013, the second norm of v is 0.003333319630396617, the delt is 0.2793855908905288
+the counter is 1
+the Is is 9.999999999999998E-8, the k is 0.7999999999999999, the Vth is 0.8000000000000006, the second norm of v is 0.0029564381386529017, the delt is 2.428529429688842
+the counter is 1
+the Is is 9.999999999999998E-8, the k is 0.7999999999999999, the Vth is 0.9000000000000006, the second norm of v is 0.002985570191849638, the delt is 1.838239842524732
+the counter is 1
+the Is is 9.999999999999998E-8, the k is 0.8, the Vth is 1.0000000000000002, the second norm of v is 0.0030142584819280354, the delt is 1.4327785361646388
+the counter is 1
+the Is is 9.999999999999998E-8, the k is 0.7999999999999999, the Vth is 1.1000000000000005, the second norm of v is 0.0030424694976521915, the delt is 1.1444419399464625
+the counter is 1
+the Is is 9.999999999999996E-8, the k is 0.7999999999999998, the Vth is 1.2000000000000008, the second norm of v is 0.003070169979443624, the delt is 0.9334271363720985
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.7999999999999998, the Vth is 1.300000000000001, the second norm of v is 0.0030973268909538316, the delt is 0.7751687154820484
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.7999999999999998, the Vth is 1.4000000000000008, the second norm of v is 0.0031239075175958212, the delt is 0.6538266316841115
+the counter is 1
+the Is is 9.999999999999998E-8, the k is 0.7999999999999999, the Vth is 1.5000000000000004, the second norm of v is 0.003149880029244074, the delt is 0.5589424781939303
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.7999999999999998, the Vth is 1.6000000000000008, the second norm of v is 0.0031752140423863128, the delt is 0.4838751886186781
+the counter is 1
+the Is is 9.999999999999994E-8, the k is 0.7999999999999997, the Vth is 1.7000000000000015, the second norm of v is 0.003199879131607995, the delt is 0.4236131191895126
+the counter is 1
+the Is is 9.999999999999994E-8, the k is 0.7999999999999997, the Vth is 1.8000000000000014, the second norm of v is 0.0032238441159656195, the delt is 0.37444208285752734
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.7999999999999998, the Vth is 1.9000000000000006, the second norm of v is 0.0032470781993815165, the delt is 0.3338618947142723
+the counter is 1
+the Is is 9.999999999999994E-8, the k is 0.7999999999999997, the Vth is 2.0000000000000013, the second norm of v is 0.003269554570229073, the delt is 0.3003928094966808
+the counter is 1
+the Is is 9.999999999999996E-8, the k is 0.8999999999999998, the Vth is 0.8000000000000012, the second norm of v is 0.002824818938811636, the delt is 2.831504716048257
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.8999999999999999, the Vth is 0.9000000000000006, the second norm of v is 0.0028591543490739018, the delt is 2.126239030141328
+the counter is 1
+the Is is 9.999999999999998E-8, the k is 0.8999999999999999, the Vth is 1.0000000000000002, the second norm of v is 0.0028930862834421517, the delt is 1.6449842005927682
+the counter is 1
+the Is is 9.999999999999992E-8, the k is 0.8999999999999995, the Vth is 1.100000000000002, the second norm of v is 0.002926567465057735, the delt is 1.3048125978491647
+the counter is 1
+the Is is 9.999999999999998E-8, the k is 0.8999999999999999, the Vth is 1.2000000000000004, the second norm of v is 0.002959550840778134, the delt is 1.05723901435685
+the counter is 1
+the Is is 9.999999999999998E-8, the k is 0.8999999999999999, the Vth is 1.3000000000000003, the second norm of v is 0.002991989540279502, the delt is 0.8725133171844027
+the counter is 1
+the Is is 9.999999999999998E-8, the k is 0.8999999999999999, the Vth is 1.4000000000000004, the second norm of v is 0.0030238369681306007, the delt is 0.7315692543555381
+the counter is 1
+the Is is 9.999999999999998E-8, the k is 0.8999999999999999, the Vth is 1.5000000000000004, the second norm of v is 0.0030550475095562054, the delt is 0.6217857479192472
+the counter is 1
+the Is is 9.999999999999998E-8, the k is 0.8999999999999999, the Vth is 1.6000000000000003, the second norm of v is 0.003085577572785927, the delt is 0.535281544904985
+the counter is 1
+the Is is 9.999999999999998E-8, the k is 0.8999999999999999, the Vth is 1.7000000000000004, the second norm of v is 0.0031153834742050604, the delt is 0.4660987276016865
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.8999999999999998, the Vth is 1.8000000000000007, the second norm of v is 0.0031444203972225563, the delt is 0.4098459194240584
+the counter is 1
+the Is is 9.999999999999993E-8, the k is 0.8999999999999996, the Vth is 1.9000000000000012, the second norm of v is 0.0031726436854443733, the delt is 0.36357155462979157
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.8999999999999998, the Vth is 2.000000000000001, the second norm of v is 0.003200013214197979, the delt is 0.32563224059919404
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.4999999999999999, the Vth is 0.800000000000001, the second norm of v is 0.0028110136206008812, the delt is 2.230466727956619
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.4999999999999999, the Vth is 0.900000000000001, the second norm of v is 0.002848681844453897, the delt is 1.683502788310875
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.49999999999999994, the Vth is 1.0000000000000004, the second norm of v is 0.0028856405288725283, the delt is 1.308633038104889
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.4999999999999999, the Vth is 1.100000000000001, the second norm of v is 0.0029218514990457457, the delt is 1.0426636939856893
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.49999999999999994, the Vth is 1.2000000000000004, the second norm of v is 0.002957277447858197, the delt is 0.8484631385600623
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.49999999999999994, the Vth is 1.3000000000000005, the second norm of v is 0.002991881984637586, the delt is 0.7031333927433577
+the counter is 1
+the Is is 2.9999999999999983E-7, the k is 0.4999999999999998, the Vth is 1.4000000000000015, the second norm of v is 0.003025629883268465, the delt is 0.5920285277817192
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.4999999999999999, the Vth is 1.5000000000000007, the second norm of v is 0.0030584874494225464, the delt is 0.5055875668694683
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.49999999999999994, the Vth is 1.6000000000000005, the second norm of v is 0.0030904224111713684, the delt is 0.43737583215682385
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.49999999999999994, the Vth is 1.7000000000000004, the second norm of v is 0.0031214031501815105, the delt is 0.3827566806988988
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.4999999999999999, the Vth is 1.8000000000000007, the second norm of v is 0.0031513987075372576, the delt is 0.33837907528496125
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.4999999999999999, the Vth is 1.9000000000000006, the second norm of v is 0.0031803804495780692, the delt is 0.30193929852120477
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.4999999999999999, the Vth is 2.0000000000000004, the second norm of v is 0.003208324468122992, the delt is 0.27181106328295684
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.6, the Vth is 0.8000000000000004, the second norm of v is 0.0025292721079154066, the delt is 2.8619153392960053
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.5999999999999999, the Vth is 0.9000000000000006, the second norm of v is 0.0025789085980279795, the delt is 2.121914526692466
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.5999999999999999, the Vth is 1.0000000000000004, the second norm of v is 0.00262785789400493, the delt is 1.6228392988591325
+the counter is 1
+the Is is 3.0E-7, the k is 0.6, the Vth is 1.1000000000000003, the second norm of v is 0.0026760501639105185, the delt is 1.2739260746172698
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.5999999999999999, the Vth is 1.2000000000000008, the second norm of v is 0.002723416933436327, the delt is 1.0225820909138421
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.5999999999999999, the Vth is 1.300000000000001, the second norm of v is 0.0027698910805143643, the delt is 0.8367964786696144
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.5999999999999999, the Vth is 1.4000000000000004, the second norm of v is 0.002815407187048628, the delt is 0.6963078752862207
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.5999999999999999, the Vth is 1.5000000000000009, the second norm of v is 0.0028599023533436682, the delt is 0.588044027069264
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.5999999999999999, the Vth is 1.6000000000000005, the second norm of v is 0.002903316331387575, the delt is 0.5034180614828485
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.5999999999999999, the Vth is 1.7000000000000006, the second norm of v is 0.0029455898122132283, the delt is 0.43625525250614083
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.5999999999999999, the Vth is 1.8000000000000007, the second norm of v is 0.002986663897451561, the delt is 0.3821136866555609
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.5999999999999999, the Vth is 1.9000000000000006, the second norm of v is 0.003026482571954546, the delt is 0.3379857882315902
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.5999999999999999, the Vth is 2.000000000000001, the second norm of v is 0.003064997738674438, the delt is 0.30182668015884806
+the counter is 1
+the Is is 3.0E-7, the k is 0.7, the Vth is 0.8000000000000003, the second norm of v is 0.0022281357757096202, the delt is 4.136254015507001
+the counter is 1
+the Is is 3.0E-7, the k is 0.7, the Vth is 0.9000000000000001, the second norm of v is 0.002289003412553189, the delt is 2.962069336482713
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.6999999999999998, the Vth is 1.0000000000000007, the second norm of v is 0.0023494021049520054, the delt is 2.1978927003994637
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.6999999999999998, the Vth is 1.1000000000000008, the second norm of v is 0.0024092179323915316, the delt is 1.6800583145349568
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.6999999999999998, the Vth is 1.2000000000000004, the second norm of v is 0.002468338846675987, the delt is 1.3171532887200783
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.7, the Vth is 1.3000000000000003, the second norm of v is 0.0025266545857837437, the delt is 1.0553809718347589
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.7, the Vth is 1.4000000000000001, the second norm of v is 0.0025840570893551043, the delt is 0.8616817979265166
+the counter is 1
+the Is is 3.0E-7, the k is 0.7, the Vth is 1.5000000000000002, the second norm of v is 0.002640441866383415, the delt is 0.715201840622349
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.6999999999999998, the Vth is 1.6000000000000005, the second norm of v is 0.002695708759929472, the delt is 0.6026698882567094
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.6999999999999997, the Vth is 1.7000000000000008, the second norm of v is 0.0027497589301721296, the delt is 0.5147512097857094
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.6999999999999997, the Vth is 1.800000000000001, the second norm of v is 0.0028024935422198234, the delt is 0.4448774255667933
+the counter is 1
+the Is is 3.0E-7, the k is 0.7, the Vth is 1.9, the second norm of v is 0.0028538168486256722, the delt is 0.38867593962336094
+the counter is 1
+the Is is 3.0E-7, the k is 0.7, the Vth is 2.0, the second norm of v is 0.0029036442888438945, the delt is 0.3432803093126443
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.8, the Vth is 0.8000000000000003, the second norm of v is 0.0019191220066632373, the delt is 7.542760776060025
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.7999999999999998, the Vth is 0.9000000000000008, the second norm of v is 0.0019895454650519493, the delt is 4.982888017446045
+the counter is 1
+the Is is 3.0E-7, the k is 0.8, the Vth is 1.0, the second norm of v is 0.0020599619840539706, the delt is 2.7576878814816492
+the counter is 1
+the Is is 3.0E-7, the k is 0.8, the Vth is 1.1000000000000003, the second norm of v is 0.0021302010202218567, the delt is 2.5108440172438535
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.7999999999999999, the Vth is 1.2000000000000006, the second norm of v is 0.0022000942050125123, the delt is 1.8824570368536369
+the counter is 1
+the Is is 3.0E-7, the k is 0.8, the Vth is 1.3000000000000003, the second norm of v is 0.0022694751858379305, the delt is 1.4521686457642364
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.7999999999999999, the Vth is 1.4000000000000004, the second norm of v is 0.0023381801126905006, the delt is 1.1475888491190567
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.7999999999999999, the Vth is 1.5000000000000004, the second norm of v is 0.0024060496087542835, the delt is 0.9257815412008292
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.7999999999999999, the Vth is 1.6000000000000005, the second norm of v is 0.0024729306450982386, the delt is 0.7608260764089732
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.7999999999999999, the Vth is 1.7000000000000004, the second norm of v is 0.0025386718809524552, the delt is 0.6355584072571111
+the counter is 1
+the Is is 3.0E-7, the k is 0.8, the Vth is 1.8, the second norm of v is 0.00260312141904442, the delt is 0.5384838622488527
+the counter is 1
+the Is is 3.0E-7, the k is 0.8, the Vth is 1.9000000000000001, the second norm of v is 0.002666130387697604, the delt is 0.4621606085685681
+the counter is 1
+the Is is 3.0E-7, the k is 0.8, the Vth is 2.0, the second norm of v is 0.0027275639919819546, the delt is 0.40190604722832435
+the counter is 1
+the Is is 3.0E-7, the k is 0.9, the Vth is 0.8, the second norm of v is 0.0016133897538296283, the delt is 26.038633147252455
+the counter is 1
+the Is is 3.0E-7, the k is 0.9, the Vth is 0.9000000000000001, the second norm of v is 0.0016908492739124432, the delt is 13.040304134933924
+the counter is 1
+the Is is 3.0E-7, the k is 0.9, the Vth is 1.0000000000000002, the second norm of v is 0.0017690408822993212, the delt is 7.532566206244739
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.8999999999999999, the Vth is 1.1000000000000005, the second norm of v is 0.0018477265324786862, the delt is 4.7790079844362126
+the counter is 1
+the Is is 3.0E-7, the k is 0.9, the Vth is 1.2000000000000002, the second norm of v is 0.0019266700516767812, the delt is 3.2423678405179404
+the counter is 1
+the Is is 3.0E-7, the k is 0.9, the Vth is 1.3, the second norm of v is 0.0020056369346949043, the delt is 2.314154018495731
+the counter is 1
+the Is is 3.0E-7, the k is 0.9, the Vth is 1.4, the second norm of v is 0.0020843949730181385, the delt is 1.7186134872492893
+the counter is 1
+the Is is 3.0E-7, the k is 0.9, the Vth is 1.5000000000000002, the second norm of v is 0.0021627168519035454, the delt is 1.3177716459117965
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.8999999999999999, the Vth is 1.6000000000000003, the second norm of v is 0.002240383658741953, the delt is 1.0380080090375894
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.8999999999999999, the Vth is 1.7000000000000004, the second norm of v is 0.0023171782801943127, the delt is 0.8364850716596615
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.8999999999999999, the Vth is 1.8000000000000005, the second norm of v is 0.00239288214105433, the delt is 0.6872034251272873
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.8999999999999999, the Vth is 1.9000000000000004, the second norm of v is 0.0024672793823842386, the delt is 0.5742961734807962
+the counter is 1
+the Is is 3.0E-7, the k is 0.9, the Vth is 2.0, the second norm of v is 0.0025401704016153005, the delt is 0.48833691379469757
+the counter is 1
+the Is is 9.999999999999997E-7, the k is 0.4999999999999999, the Vth is 0.8000000000000009, the second norm of v is 0.0014080739728930263, the delt is 29.694241608296032
+the counter is 1
+the Is is 1.0E-6, the k is 0.5, the Vth is 0.9000000000000002, the second norm of v is 0.00149795162049081, the delt is 13.43460698107018
+the counter is 1
+the Is is 1.0000000000000065E-6, the k is 0.5000000000000034, the Vth is 1.0000000000000357, the second norm of v is 0.0015884180481678038, the delt is 27.137474545899728
+the counter is 1
+the Is is 1.0E-6, the k is 0.5, the Vth is 1.1, the second norm of v is 0.0016791682340238589, the delt is 4.481028550874618
+the counter is 1
+the Is is 9.999999999999997E-7, the k is 0.49999999999999994, the Vth is 1.2000000000000004, the second norm of v is 0.0017699061178054812, the delt is 2.9659780874036183
+the counter is 1
+the Is is 9.999999999999997E-7, the k is 0.4999999999999999, the Vth is 1.3000000000000007, the second norm of v is 0.0018603445962629534, the delt is 2.0803346014276873
+the counter is 1
+the Is is 9.999999999999997E-7, the k is 0.4999999999999999, the Vth is 1.4000000000000006, the second norm of v is 0.0019502065862384628, the delt is 1.5257536177621855
+the counter is 1
+the Is is 1.0E-6, the k is 0.49999999999999994, the Vth is 1.5000000000000002, the second norm of v is 0.0020392265652448274, the delt is 1.1597481177544826
+the counter is 1
+the Is is 1.0E-6, the k is 0.5, the Vth is 1.6, the second norm of v is 0.002127150154135687, the delt is 0.9080539308354675
+the counter is 1
+the Is is 1.0E-6, the k is 0.5, the Vth is 1.7000000000000002, the second norm of v is 0.0022137311188240986, the delt is 0.7289254821394712
+the counter is 1
+the Is is 9.999999999999997E-7, the k is 0.49999999999999994, the Vth is 1.8000000000000005, the second norm of v is 0.0022987311890490044, the delt is 0.5976914686113641
+the counter is 1
+the Is is 9.999999999999997E-7, the k is 0.49999999999999994, the Vth is 1.9000000000000004, the second norm of v is 0.0023819258137005505, the delt is 0.49932735311604404
+the counter is 1
+the Is is 1.0E-6, the k is 0.49999999999999994, the Vth is 2.0, the second norm of v is 0.0024631124445376055, the delt is 0.4241551640815463
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 11
+the Is is 2.068457283952682E-6, the k is 0.5981752872503112, the Vth is 0.9382196310592584, the second norm of v is 2.5381491606342573E-6, the delt is 9.927205187922991E-16
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is NaN, the k is NaN, the Vth is -Infinity, the second norm of v is NaN, the delt is NaN
+the counter is 2
+the Is is 1.232495131420005E-6, the k is 0.712048814405211, the Vth is 0.3967921803003696, the second norm of v is 8.084725450945963E-5, the delt is 92.16816865590401
+the counter is 1
+the Is is 7.69254096817715E-6, the k is 3.868505426942149, the Vth is -16.857774930711635, the second norm of v is NaN, the delt is 340.9792449108997
+the counter is 1
+the Is is 1.0E-6, the k is 0.6, the Vth is 1.2000000000000002, the second norm of v is 0.0012082153017823633, the delt is 155.44984783806763
+the counter is 1
+the Is is 1.0E-6, the k is 0.6, the Vth is 1.3000000000000003, the second norm of v is 0.0013138173258686687, the delt is 21.170956106125313
+the counter is 1
+the Is is 9.999999999999997E-7, the k is 0.5999999999999999, the Vth is 1.4000000000000006, the second norm of v is 0.001420671764956431, the delt is 7.848512914621028
+the counter is 1
+the Is is 1.0E-6, the k is 0.6, the Vth is 1.5000000000000002, the second norm of v is 0.0015282785218587876, the delt is 4.021117219832087
+the counter is 1
+the Is is 1.0E-6, the k is 0.6, the Vth is 1.6, the second norm of v is 0.0016361577201296274, the delt is 2.425565598282631
+the counter is 1
+the Is is 1.0E-6, the k is 0.6, the Vth is 1.7000000000000002, the second norm of v is 0.0017438431001634478, the delt is 1.6168454420877878
+the counter is 1
+the Is is 1.0E-6, the k is 0.6, the Vth is 1.8, the second norm of v is 0.0018508798049868397, the delt is 1.1539259776043254
+the counter is 1
+the Is is 9.999999999999997E-7, the k is 0.5999999999999999, the Vth is 1.9000000000000006, the second norm of v is 0.0019568330899152144, the delt is 0.8663290025547179
+the counter is 1
+the Is is 1.0E-6, the k is 0.6, the Vth is 2.0000000000000004, the second norm of v is 0.002061305882875604, the delt is 0.6765411045760781
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 12
+the Is is 2.068457311404509E-6, the k is 0.5981752825491014, the Vth is 0.938219627991429, the second norm of v is 2.5381491606342607E-6, the delt is 1.0447503195373414E-15
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 11
+the Is is 2.068457312378419E-6, the k is 0.5981752823824651, the Vth is 0.9382196278837069, the second norm of v is 2.5381491606342552E-6, the delt is 4.516645892723513E-15
+the counter is 3
+the Is is 1.100855502758521E-6, the k is 0.826327594184194, the Vth is 0.8672850774684269, the second norm of v is 2.741532535771196E-5, the delt is 25.43898653636362
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 13
+the Is is 2.0684573136418293E-6, the k is 0.5981752821663157, the Vth is 0.9382196277444681, the second norm of v is 2.538149160634262E-6, the delt is 1.2594170527056375E-14
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+the counter is 2
+the Is is 1.1768972965247952E-6, the k is 0.7939969467487422, the Vth is 0.8376276624812488, the second norm of v is 2.4576094670096388E-5, the delt is 0.5517291628951736
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 12
+the Is is 2.0684572939614952E-6, the k is 0.598175285533502, the Vth is 0.9382196299171417, the second norm of v is 2.538149160634261E-6, the delt is 1.6724343628274525E-16
+the counter is 3
+the Is is 1.265789748592721E-6, the k is 0.7953615590374644, the Vth is 0.9887776328418378, the second norm of v is 1.7073644118727174E-5, the delt is 2.1777511193658725
+the counter is 1
+the Is is -1.62036352507758E-5, the k is -8.998244416462171, the Vth is 49.30817677511277, the second norm of v is NaN, the delt is 1377.0058685202562
+the counter is 1
+the Is is 9.999999999999997E-7, the k is 0.6999999999999998, the Vth is 1.7000000000000006, the second norm of v is 0.001274384826685729, the delt is 20.295759349306202
+the counter is 1
+the Is is 9.999999999999997E-7, the k is 0.6999999999999998, the Vth is 1.8000000000000007, the second norm of v is 0.0013970326549417819, the delt is 5.8789275412917235
+the counter is 1
+the Is is 9.999999999999997E-7, the k is 0.6999999999999998, the Vth is 1.9000000000000004, the second norm of v is 0.001520420730144754, the delt is 2.7992710432604797
+the counter is 1
+the Is is 1.0E-6, the k is 0.7, the Vth is 2.0, the second norm of v is 0.0016438619745794325, the delt is 1.65619528397599
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 11
+the Is is 2.0684573156489446E-6, the k is 0.5981752818229173, the Vth is 0.9382196275229494, the second norm of v is 2.538149160634265E-6, the delt is 3.382216065513794E-14
+the counter is 2
+the Is is 1.1234232555497596E-6, the k is 0.8285773832685045, the Vth is 0.893323476529907, the second norm of v is 2.7264894483239663E-5, the delt is 0.42980196030026
+the counter is 3
+the Is is 1.1154183898892523E-6, the k is 0.8906552472295243, the Vth is 1.1136435560967652, the second norm of v is 2.9071681616833986E-5, the delt is 0.21557207456329697
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 12
+the Is is 2.06845730325237E-6, the k is 0.5981752839438567, the Vth is 0.938219628890981, the second norm of v is 2.538149160634272E-6, the delt is 6.681184857828402E-14
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 12
+the Is is 2.068457310218757E-6, the k is 0.5981752827519726, the Vth is 0.9382196281223045, the second norm of v is 2.538149160634257E-6, the delt is 1.0022983175330564E-16
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 12
+the Is is 2.0684573103199533E-6, the k is 0.598175282734659, the Vth is 0.9382196281111358, the second norm of v is 2.538149160634265E-6, the delt is 4.094196527910687E-17
+the counter is 2
+the Is is 1.131499332250674E-6, the k is 0.86798060520623, the Vth is 1.053808039491643, the second norm of v is 2.718861448411213E-5, the delt is 0.23771757464471455
+the counter is 3
+the Is is 1.1241005573554089E-6, the k is 0.9154203122569858, the Vth is 1.2302596294962682, the second norm of v is 3.069648284104974E-5, the delt is 1.1354831059406374
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 12
+the Is is 2.0684573118046517E-6, the k is 0.5981752824806407, the Vth is 0.9382196279472609, the second norm of v is 2.5381491606342662E-6, the delt is 2.1726088396866284E-15
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 4
+the Is is 1.0104904330891494E-6, the k is 0.9002044342705666, the Vth is 0.9808087833480886, the second norm of v is 3.4807658462324305E-5, the delt is 0.6303916204146757
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 12
+the Is is 2.0684573107450664E-6, the k is 0.598175282661926, the Vth is 0.9382196280642142, the second norm of v is 2.538149160634262E-6, the delt is 7.705605647626172E-17
+the counter is 1
+the Is is 6.385839423093653E-6, the k is 4.166679996870325, the Vth is -13.593786585946999, the second norm of v is NaN, the delt is 113.21537702548551
+the counter is 1
+the Is is 1.0E-6, the k is 0.8, the Vth is 2.0, the second norm of v is 0.0012344346275144163, the delt is 41.06591395950807
+the counter is 2
+the Is is 9.658818887236786E-7, the k is 0.8846259880901162, the Vth is 0.6925497163977677, the second norm of v is 8.705552746375576E-5, the delt is 58.57675304754308
+the counter is 2
+the Is is 9.779064284494573E-7, the k is 0.9658037999870841, the Vth is 1.1496068126826775, the second norm of v is 3.982614986525457E-5, the delt is 0.5403974349358408
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 11
+the Is is 2.068457312154692E-6, the k is 0.598175282420751, the Vth is 0.9382196279086018, the second norm of v is 2.538149160634264E-6, the delt is 3.4953822987285298E-15
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 12
+the Is is 2.06845731069633E-6, the k is 0.5981752826702644, the Vth is 0.9382196280695938, the second norm of v is 2.5381491606342493E-6, the delt is 4.954308893110746E-17
+the counter is 3
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+the counter is 2
+the Is is 1.0926730240840563E-6, the k is 0.9026856647067524, the Vth is 1.0996584037444836, the second norm of v is 3.365882110203906E-5, the delt is 0.07601860208285412
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 13
+the Is is 2.068457311723307E-6, the k is 0.5981752824945579, the Vth is 0.9382196279562413, the second norm of v is 2.538149160634281E-6, the delt is 1.910193260640512E-15
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 13
+the Is is 2.068457310678991E-6, the k is 0.5981752826732311, the Vth is 0.9382196280715078, the second norm of v is 2.538149160634256E-6, the delt is 4.121075772974942E-17
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 12
+the Is is 2.068457314640897E-6, the k is 0.5981752819953698, the Vth is 0.9382196276338682, the second norm of v is 2.538149160634267E-6, the delt is 2.19189214087288E-14
+the counter is 3
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+the counter is 3
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 14
+the Is is 2.0684573109771907E-6, the k is 0.5981752826222116, the Vth is 0.9382196280385937, the second norm of v is 2.538149160634269E-6, the delt is 2.9124972044883213E-16
+the counter is 2
+the Is is 3.0235548233154654E-6, the k is 0.48739970039932906, the Vth is 0.8989899444613944, the second norm of v is 9.411437515159308E-6, the delt is 0.17134234568118664
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 10
+the Is is 2.0684572981660295E-6, the k is 0.5981752848142011, the Vth is 0.9382196294528303, the second norm of v is 2.5381491606342603E-6, the delt is 2.1394375086758254E-16
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 9
+the Is is 2.0684573173736866E-6, the k is 0.5981752815277942, the Vth is 0.9382196273319369, the second norm of v is 2.538149160634252E-6, the delt is 6.647439763271406E-17
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 9
+the Is is 2.068457296368336E-6, the k is 0.598175285121752, the Vth is 0.938219629651359, the second norm of v is 2.538149160634266E-6, the delt is 2.808578872515577E-16
+the counter is 3
+the Is is 3.0185194003371903E-6, the k is 0.4957565002013778, the Vth is 0.9490038961672479, the second norm of v is 9.678678249697157E-6, the delt is 0.0951242702299089
+the counter is 3
+the Is is 2.962419587320794E-6, the k is 0.49081589544275306, the Vth is 0.8661382254571435, the second norm of v is 1.0307335633152589E-5, the delt is 0.024548357988640187
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 10
+the Is is 2.06845730858107E-6, the k is 0.5981752830321658, the Vth is 0.9382196283030595, the second norm of v is 2.5381491606342717E-6, the delt is 4.688321391889112E-15
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 10
+the Is is 2.068457305951208E-6, the k is 0.5981752834821107, the Vth is 0.9382196285933139, the second norm of v is 2.538149160634264E-6, the delt is 2.6348689174796975E-14
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 10
+the Is is 2.0684573156461667E-6, the k is 0.5981752818233889, the Vth is 0.938219627523219, the second norm of v is 2.538149160634253E-6, the delt is 3.726010796981832E-17
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 3.057651624558209E-6, the k is 0.4954718459225721, the Vth is 0.9816667019831276, the second norm of v is 9.891781247910996E-6, the delt is 0.6860461573296829
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 10
+the Is is 2.0684573063781533E-6, the k is 0.5981752834090656, the Vth is 0.9382196285462062, the second norm of v is 2.53814916063426E-6, the delt is 2.3886022648881077E-17
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 3.0579343383420906E-6, the k is 0.49923115333252505, the Vth is 1.0094820569083596, the second norm of v is 1.0231025824056012E-5, the delt is 1.4832868641096242
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 11
+the Is is 2.068457309021407E-6, the k is 0.5981752829568274, the Vth is 0.9382196282544516, the second norm of v is 2.5381491606342844E-6, the delt is 2.7829731689785476E-15
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 12
+the Is is 2.068457311002214E-6, the k is 0.5981752826179304, the Vth is 0.9382196280358316, the second norm of v is 2.5381491606342573E-6, the delt is 3.225381816088955E-16
+the counter is 3
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 2.746542772275379E-6, the k is 0.5180443778944263, the Vth is 0.9315400702562373, the second norm of v is 6.847312260884314E-6, the delt is 0.08053578336442116
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 10
+the Is is 2.0684573084030876E-6, the k is 0.5981752830626172, the Vth is 0.9382196283227077, the second norm of v is 2.538149160634272E-6, the delt is 5.59867687748351E-15
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 2.7924055127635395E-6, the k is 0.520941998360499, the Vth is 0.9884214427616179, the second norm of v is 7.292843912982547E-6, the delt is 0.4146345088167751
+the counter is 2
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 9
+the Is is 2.0684573091760683E-6, the k is 0.5981752829303669, the Vth is 0.9382196282373886, the second norm of v is 2.5381491606342556E-6, the delt is 2.2310165952072558E-15
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 2.068457305377107E-6, the k is 0.5981752835802965, the Vth is 0.9382196286560837, the second norm of v is 2.538149160634271E-6, the delt is 3.3370247914484095E-14
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 8
+the Is is 2.068457306795347E-6, the k is 0.5981752833376863, the Vth is 0.938219628500147, the second norm of v is 2.5381491606342853E-6, the delt is 1.747712495964783E-14
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 10
+the Is is 2.068457309774604E-6, the k is 0.5981752828279634, the Vth is 0.9382196281713281, the second norm of v is 2.5381491606342535E-6, the delt is 6.691184293996009E-16
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 11
+the Is is 2.068457308804859E-6, the k is 0.5981752829938778, the Vth is 0.9382196282783619, the second norm of v is 2.538149160634267E-6, the delt is 3.6582591409719995E-15
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 9
+the Is is 2.068457310881095E-6, the k is 0.5981752826386528, the Vth is 0.9382196280491999, the second norm of v is 2.5381491606342798E-6, the delt is 1.8591460236177738E-16
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 10
+the Is is 2.068457288715097E-6, the k is 0.5981752864313312, the Vth is 0.9382196304987706, the second norm of v is 2.5381491606342806E-6, the delt is 6.675335356371416E-16
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 11
+the Is is 2.068457310156643E-6, the k is 0.5981752827625999, the Vth is 0.9382196281291608, the second norm of v is 2.5381491606342497E-6, the delt is 1.4953954338401273E-16
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 2.403303085164555E-6, the k is 0.5617565222478759, the Vth is 0.9760103612403461, the second norm of v is 4.093551436702036E-6, the delt is 0.20898281520297796
+the counter is 3
+the Is is 3.013916963798917E-6, the k is 0.7014220895027331, the Vth is 1.8379665446020783, the second norm of v is 1.5901511726873453E-4, the delt is 7.535098776871813
+the counter is 2
+the Is is 2.899719681242055E-6, the k is 0.6792489960417345, the Vth is 1.6168751667782375, the second norm of v is 1.7835102815164384E-4, the delt is 0.5328475955668883
+the counter is 2
+the Is is 2.9503466320548895E-6, the k is 0.6887772342753932, the Vth is 1.735295380288963, the second norm of v is 1.5257431810819706E-4, the delt is 2.6661388578411063
+the counter is 3
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 9
+the Is is 2.0684573096105212E-6, the k is 0.5981752828560439, the Vth is 0.9382196281894595, the second norm of v is 2.538149160634267E-6, the delt is 1.0042470637482515E-15
+the counter is 3
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+the counter is 1
+the Is is 3.0000000000000013E-6, the k is 0.7000000000000003, the Vth is 1.800000000000002, the second norm of v is 1.7046354873356E-4, the delt is 1.9403913722160608
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 8
+the Is is 2.0684573428280927E-6, the k is 0.5981752771732046, the Vth is 0.9382196245294094, the second norm of v is 2.538149160634288E-6, the delt is 1.469730738431545E-15
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 10
+the Is is 2.0684572959922296E-6, the k is 0.5981752851862375, the Vth is 0.9382196296935834, the second norm of v is 2.5381491606342595E-6, the delt is 9.39670612328531E-17
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 11
+the Is is 2.068457299831074E-6, the k is 0.5981752845292215, the Vth is 0.9382196292689455, the second norm of v is 2.5381491606342523E-6, the delt is 4.1302722988939376E-17
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+the counter is 3
+the Is is 2.6510250999255967E-6, the k is 0.7259989966769411, the Vth is 1.6715854227738258, the second norm of v is 1.8498849548190312E-4, the delt is 0.5405423279461283
+the counter is 3
+the Is is 2.7018453328929877E-6, the k is 0.7365931534459852, the Vth is 1.7769635983543786, the second norm of v is 1.7116470707021644E-4, the delt is 1.3631504187273953
+the counter is 3
+the Is is 2.765118627909919E-6, the k is 0.7501334600971057, the Vth is 1.895026040521325, the second norm of v is 1.7020492835833853E-4, the delt is 6.370617145601046
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 11
+the Is is 2.068457304843714E-6, the k is 0.59817528367159, the Vth is 0.9382196287155077, the second norm of v is 2.5381491606342955E-6, the delt is 4.073460365845306E-14
+the counter is 3
+the Is is 2.9779896228574116E-6, the k is 0.7967623763565027, the Vth is 2.1113483407761007, the second norm of v is 2.7231565072093376E-4, the delt is 1.1567496378169295
+the counter is 3
+the Is is 3.007969114109392E-6, the k is 0.8032412903273612, the Vth is 2.126638995029772, the second norm of v is 2.9829423961303514E-4, the delt is 0.6764999848985573
+the counter is 2
+the Is is 2.9442217019604273E-6, the k is 0.7877704595800418, the Vth is 2.0459789553814813, the second norm of v is 2.746922765440589E-4, the delt is 0.6546686122800993
+the counter is 2
+the Is is 3.01095211815106E-6, the k is 0.8024910474177182, the Vth is 2.1772695263681543, the second norm of v is 2.625170874561198E-4, the delt is 3.7481262617497704
+the counter is 3
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+the counter is 2
+the Is is 3.1597535068025463E-6, the k is 0.836707221298814, the Vth is 2.3126587127079206, the second norm of v is 3.426362313587507E-4, the delt is 0.6942669675810629
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 11
+the Is is 2.0684573051978332E-6, the k is 0.5981752836116361, the Vth is 0.9382196286809263, the second norm of v is 2.5381491606342654E-6, the delt is 3.5366235499650495E-14
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 11
+the Is is 2.06845731518835E-6, the k is 0.5981752819017175, the Vth is 0.9382196275737059, the second norm of v is 2.5381491606342607E-6, the delt is 2.80526495578739E-14
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 2.6763602764222927E-6, the k is 0.8313372094233309, the Vth is 2.0760209257708477, the second norm of v is 2.564565240545588E-4, the delt is 1.256842770000671
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 2.7770876274913305E-6, the k is 0.8564166468870772, the Vth is 2.2346196665079363, the second norm of v is 2.7698903997019843E-4, the delt is 3.1945303623313333
+the counter is 3
+the Is is 2.657152697949951E-6, the k is 0.8217672302215576, the Vth is 1.9822714132362111, the second norm of v is 2.92134161260032E-4, the delt is 0.31619259233287467
+the counter is 3
+the Is is 2.7104633269646726E-6, the k is 0.8342117688711737, the Vth is 2.0869291293535603, the second norm of v is 2.7646880061294945E-4, the delt is 0.8020534249891313
+the counter is 3
+the Is is 2.775047604693181E-6, the k is 0.8496541078770158, the Vth is 2.2012513621145144, the second norm of v is 2.768828646526156E-4, the delt is 2.107897538648471
+the counter is 3
+the Is is 2.85867262723955E-6, the k is 0.8701751474554018, the Vth is 2.333536367784378, the second norm of v is 2.960714752170636E-4, the delt is 5.2769285842140246
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+the counter is 3
+the Is is 3.0059443245435094E-6, the k is 0.9064989667136972, the Vth is 2.4231088785543866, the second norm of v is 4.040307995072256E-4, the delt is 0.3988704683332192
+the counter is 3
+the Is is 3.0236565766662448E-6, the k is 0.9098809690564124, the Vth is 2.4220100540861984, the second norm of v is 4.261594065872951E-4, the delt is 0.2879743019213752
+the counter is 2
+the Is is 2.9624217883312187E-6, the k is 0.8922439500125628, the Vth is 2.351482559487309, the second norm of v is 3.9505924405158494E-4, the delt is 0.3124015536939845
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.44125097597598E-6, the k is 0.42252841511992273, the Vth is 1.8760557360573369, the second norm of v is 2.7463650476228224E-4, the delt is 0.7655952947010859
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.615447328409879E-6, the k is 0.4296137908099177, the Vth is 1.979019204554917, the second norm of v is 2.751779922518456E-4, the delt is 1.9939926034761095
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.823235842852717E-6, the k is 0.43817867280213574, the Vth is 2.091769991986879, the second norm of v is 2.866919079419019E-4, the delt is 9.668241435733623
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 19
+the Is is 2.0684573132018287E-6, the k is 0.5981752822415964, the Vth is 0.9382196277930532, the second norm of v is 2.5381491606342688E-6, the delt is 9.312155279894146E-15
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 4
+the Is is 9.388486602260487E-6, the k is 0.46450698062918744, the Vth is 2.2611229102749726, the second norm of v is 4.0377728077672866E-4, the delt is 0.5570551718659916
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 4
+the Is is 9.757591458464169E-6, the k is 0.48090028296475673, the Vth is 2.431032755180164, the second norm of v is 4.331096715968074E-4, the delt is 1.4478578829535307
+the counter is 3
+the Is is 9.231179880524001E-6, the k is 0.4592375793827762, the Vth is 2.1675055445933453, the second norm of v is 4.248582037573583E-4, the delt is 0.2791791120889112
+the counter is 3
+the Is is 9.431553166914943E-6, the k is 0.4676029060732668, the Vth is 2.280545845787664, the second norm of v is 4.144567666602844E-4, the delt is 0.5080202419138629
+the counter is 3
+the Is is 9.689418822612293E-6, the k is 0.4785745121485249, the Vth is 2.408942447771767, the second norm of v is 4.254099314497374E-4, the delt is 1.3150057810876947
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+the counter is 3
+the Is is 1.0445354882201116E-5, the k is 0.5138667886601064, the Vth is 2.644024242768398, the second norm of v is 5.542937169012161E-4, the delt is 0.8697740259620048
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 17
+the Is is 2.0684573111396398E-6, the k is 0.5981752825940805, the Vth is 0.9382196280145614, the second norm of v is 2.5381491606342578E-6, the delt is 1.5063504731915167E-15
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 5
+the Is is 8.45835484059581E-6, the k is 0.510730326027679, the Vth is 2.353767161534928, the second norm of v is 4.386319219996381E-4, the delt is 0.43647828333079147
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 5
+the Is is 8.734607131661228E-6, the k is 0.5251987992400228, the Vth is 2.488750776670181, the second norm of v is 4.6316869514707144E-4, the delt is 1.048907535812699
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.30531986317906E-6, the k is 0.5034351808863595, the Vth is 2.236890582395096, the second norm of v is 4.7587519056962714E-4, the delt is 0.18722819784713718
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.469254826176832E-6, the k is 0.5114815705071977, the Vth is 2.333477490436513, the second norm of v is 4.640453624452014E-4, the delt is 0.2757388994366053
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.661905640199719E-6, the k is 0.5211061679589404, the Vth is 2.4371611039907495, the second norm of v is 4.6663695975372645E-4, the delt is 0.5132015642821275
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.88631150598654E-6, the k is 0.5324425805348987, the Vth is 2.547854545706624, the second norm of v is 4.834600174526125E-4, the delt is 1.5199343850418165
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 19
+the Is is 2.068457307584418E-6, the k is 0.598175283202683, the Vth is 0.9382196284130524, the second norm of v is 2.5381491606342887E-6, the delt is 1.0824571535218098E-14
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 9.480599511218657E-6, the k is 0.5628512352412323, the Vth is 2.8019955315813023, the second norm of v is 5.680634572057615E-4, the delt is 9.082687100411647
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 4
+the Is is 9.469718047042944E-6, the k is 0.5642168678164121, the Vth is 2.7017009539601777, the second norm of v is 6.215282486969354E-4, the delt is 0.33112280548307316
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 4
+the Is is 9.522737249095817E-6, the k is 0.5680503106274537, the Vth is 2.699656397569062, the second norm of v is 6.562537303662283E-4, the delt is 0.21838153170054958
+the counter is 3
+the Is is 9.337837734668108E-6, the k is 0.5582763883057538, the Vth is 2.632222985049575, the second norm of v is 6.331579807332771E-4, the delt is 0.2189975402678767
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.42295518281438E-6, the k is 0.5378195821092041, the Vth is 2.2758027150206797, the second norm of v is 4.5070455793656616E-4, the delt is 0.24157583817493344
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.57103228627124E-6, the k is 0.5460528195403056, the Vth is 2.363681650174355, the second norm of v is 4.496397219981192E-4, the delt is 0.3427596074170609
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.738678524082582E-6, the k is 0.5555648900193462, the Vth is 2.4566699305168265, the second norm of v is 4.5838857701384426E-4, the delt is 0.629528223301352
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.926311022210868E-6, the k is 0.5663396976182083, the Vth is 2.553988820987567, the second norm of v is 4.768056937525505E-4, the delt is 1.7013326435993257
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 8.13820289659499E-6, the k is 0.5786140073175996, the Vth is 2.6563550713909048, the second norm of v is 5.057952426594981E-4, the delt is 4.454749993079839
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 8.385812667010743E-6, the k is 0.5931110953985352, the Vth is 2.767186960825196, the second norm of v is 5.474275907431709E-4, the delt is 6.446217438235923
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 5
+the Is is 8.846363335971445E-6, the k is 0.628390393948392, the Vth is 2.8513267743305715, the second norm of v is 7.014419459461008E-4, the delt is 0.20766274957074707
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 5
+the Is is 8.64268829800455E-6, the k is 0.6100180759242575, the Vth is 2.776412233411814, the second norm of v is 6.409197383296777E-4, the delt is 0.3205509538569945
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 5
+the Is is 8.380576995780545E-6, the k is 0.5944036523813706, the Vth is 2.617672965490763, the second norm of v is 6.701215900349161E-4, the delt is 0.14704423132834424
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.454458072748784E-6, the k is 0.5981167667027718, the Vth is 2.6642132782117627, the second norm of v is 6.515489642960957E-4, the delt is 0.19529299044629297
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.655090761562468E-6, the k is 0.6096916450779841, the Vth is 2.763694525727394, the second norm of v is 6.53043451657883E-4, the delt is 0.2597647042011721
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.914688489541206E-6, the k is 0.6251820157551053, the Vth is 2.8785038231167066, the second norm of v is 6.767664469064807E-4, the delt is 0.35666647857350947
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 9.231854734583878E-6, the k is 0.6446074684635328, the Vth is 3.006468426696972, the second norm of v is 7.205788253320443E-4, the delt is 1.5265942346539152
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 7.397820419202128E-6, the k is 0.6188491746085583, the Vth is 2.617777578864525, the second norm of v is 5.682358671649321E-4, the delt is 0.38524421537056447
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 6
+the Is is 7.620018626992929E-6, the k is 0.6337050384418836, the Vth is 2.726328338762867, the second norm of v is 5.937229353305866E-4, the delt is 0.47690414730315844
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 6
+the Is is 7.453594355484321E-6, the k is 0.6215106435255854, the Vth is 2.5960802081197496, the second norm of v is 6.22894354336469E-4, the delt is 0.1908367577610469
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.433347838176724E-6, the k is 0.6186378356559092, the Vth is 2.5867688782140217, the second norm of v is 6.108689923530801E-4, the delt is 0.20405742568609958
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.583038985218846E-6, the k is 0.6279240692257289, the Vth is 2.6690560074608087, the second norm of v is 6.090304717122446E-4, the delt is 0.2932488137864857
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.759726697807484E-6, the k is 0.6391771803494309, the Vth is 2.758258255801826, the second norm of v is 6.207780018684958E-4, the delt is 0.3625735765876059
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.981359593720494E-6, the k is 0.6538880811403175, the Vth is 2.8607867310733526, the second norm of v is 6.487732884921867E-4, the delt is 0.4340308357056167
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 8.249932187148817E-6, the k is 0.6723608610062792, the Vth is 2.976315485133509, the second norm of v is 6.922466158849587E-4, the delt is 1.2377256313816687
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 5
+the Is is 8.471235954969087E-6, the k is 0.688082489023347, the Vth is 2.9688934225882364, the second norm of v is 7.976056029423167E-4, the delt is 0.16816410330873896
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 5
+the Is is 8.725886434778367E-6, the k is 0.7051971314173981, the Vth is 3.072951402658822, the second norm of v is 8.200137896249666E-4, the delt is 0.4784531111956192
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.414621828011999E-6, the k is 0.6832049048426295, the Vth is 2.9077590233485595, the second norm of v is 8.40071972402342E-4, the delt is 0.07990879034599334
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 6.750476375286717E-6, the k is 0.6542311436274635, the Vth is 2.668801031169288, the second norm of v is 5.423720973682158E-4, the delt is 0.8100028885635716
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 6.913057422702518E-6, the k is 0.6653307196422413, the Vth is 2.750953745575655, the second norm of v is 5.65738909950217E-4, the delt is 0.943883080159746
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 7.109504070276257E-6, the k is 0.6793976495322163, the Vth is 2.8446037044224504, the second norm of v is 6.007622894396189E-4, the delt is 0.9998232067228625
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 7.355275722684574E-6, the k is 0.6980159077694615, the Vth is 2.9559312075390833, the second norm of v is 6.508138426879517E-4, the delt is 2.8065931092044516
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 6
+the Is is 7.525994174873292E-6, the k is 0.7105143563124807, the Vth is 2.925787041680569, the second norm of v is 7.380625126804542E-4, the delt is 0.19013016566162574
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 6
+the Is is 7.743966141365382E-6, the k is 0.7267026319463806, the Vth is 3.021849142053297, the second norm of v is 7.644367346900577E-4, the delt is 0.5105604284555929
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.387560939933517E-6, the k is 0.6956897055340342, the Vth is 2.8082682313665503, the second norm of v is 7.706338376755299E-4, the delt is 0.09417194804353995
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.560560576877342E-6, the k is 0.7081503144294662, the Vth is 2.8962579836338147, the second norm of v is 7.68470267354357E-4, the delt is 0.11824361567615711
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.744750862998896E-6, the k is 0.7214991823492113, the Vth is 2.984304784211134, the second norm of v is 7.767487507920026E-4, the delt is 0.23492080194345855
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.942842321098206E-6, the k is 0.7358554635406004, the Vth is 3.0723628697066157, the second norm of v is 7.963443426107818E-4, the delt is 0.6926659609677503
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 8.161497569387236E-6, the k is 0.7517761527087125, the Vth is 3.1617706396485556, the second norm of v is 8.290547907036033E-4, the delt is 1.334314830054804
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 8.420084342297644E-6, the k is 0.7707133929084033, the Vth is 3.2576994243448265, the second norm of v is 8.775413735595932E-4, the delt is 1.2359319777119355
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.1061756879949297E-5, the k is 0.35712220413446444, the Vth is 2.606536108368495, the second norm of v is 6.26669225077482E-4, the delt is 0.32092021998316367
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.148606029123488E-5, the k is 0.36322705628480567, the Vth is 2.689014498767835, the second norm of v is 6.383491781251504E-4, the delt is 0.46776842517670064
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.1980244316970595E-5, the k is 0.37043833095542844, the Vth is 2.7780485338538234, the second norm of v is 6.604708600007887E-4, the delt is 0.6814178105114943
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.2562031241657195E-5, the k is 0.3790800048338972, the Vth is 2.875536081462332, the second norm of v is 6.938803766323592E-4, the delt is 1.1798976013554374
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.324454472013086E-5, the k is 0.3894167367718966, the Vth is 2.9824541617430285, the second norm of v is 7.395547312685709E-4, the delt is 3.9832979217087843
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 6
+the Is is 2.3686183652736858E-5, the k is 0.3971255196961215, the Vth is 2.957924667672392, the second norm of v is 8.194536706835384E-4, the delt is 0.2502409394486676
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 6
+the Is is 2.361166249272736E-5, the k is 0.3961146754482588, the Vth is 2.919786453180838, the second norm of v is 8.467975289336677E-4, the delt is 0.14180071667590244
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 2.3251578056296655E-5, the k is 0.39047676341363596, the Vth is 2.858709918648407, the second norm of v is 8.419276971842822E-4, the delt is 0.11042799013827934
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 2.3747590488961274E-5, the k is 0.39781682449810746, the Vth is 2.9464366560658886, the second norm of v is 8.410808130974343E-4, the delt is 0.17773150397820991
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 2.431039867232017E-5, the k is 0.4061954079982956, the Vth is 3.037483079800828, the second norm of v is 8.550063075508018E-4, the delt is 0.33901963499437016
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 2.444117500911463E-5, the k is 0.406888730363589, the Vth is 3.0710776457775446, the second norm of v is 8.432995108676197E-4, the delt is 0.6698239190034652
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 2.5778232856847604E-5, the k is 0.42811760838986773, the Vth is 3.2401173006160104, the second norm of v is 9.329846888531258E-4, the delt is 0.9727171630646387
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 2.0614549494862297E-5, the k is 0.42330378322980206, the Vth is 3.0257848577882016, the second norm of v is 7.590019868454164E-4, the delt is 5.598628351108838
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 7
+the Is is 2.7989153685960655E-5, the k is 0.5737614993554546, the Vth is 3.6969585325674625, the second norm of v is 0.0013951287383598583, the delt is 0.17099606173908996
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 7
+the Is is 2.086683198868352E-5, the k is 0.42828970956481005, the Vth is 2.971854589085349, the second norm of v is 8.305906748992945E-4, the delt is 0.22657855590326975
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 7
+the Is is 2.141595124515889E-5, the k is 0.43805436877729986, the Vth is 3.0616629376371596, the second norm of v is 8.567787250742999E-4, the delt is 0.40517573785115935
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.0476080297639294E-5, the k is 0.42055844972487944, the Vth is 2.8610346415625783, the second norm of v is 8.678540159676393E-4, the delt is 0.0881983044064977
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.0857781381576654E-5, the k is 0.4270976234942713, the Vth is 2.936066238767506, the second norm of v is 8.614390610083304E-4, the delt is 0.128805729956782
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.1276896711695434E-5, the k is 0.4343314730909244, the Vth is 3.012729714406219, the second norm of v is 8.660575249589301E-4, the delt is 0.21511662883055865
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.1746264668339103E-5, the k is 0.4424662257035908, the Vth is 3.0919089419623473, the second norm of v is 8.821306724552916E-4, the delt is 0.3763412987205398
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.2291963369793576E-5, the k is 0.45196823685639276, the Vth is 3.1760159101313152, the second norm of v is 9.109567499625893E-4, the delt is 0.5697124538243483
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.2961004214535397E-5, the k is 0.4637641240519012, the Vth is 3.2698747799736787, the second norm of v is 9.55192008844972E-4, the delt is 0.6738234461601733
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.3815322357516604E-5, the k is 0.47923722027400356, the Vth is 3.3799282403528417, the second norm of v is 0.0010185565660340047, the delt is 0.9536406746094159
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 6
+the Is is 2.3666384937497422E-5, the k is 0.47761036114750743, the Vth is 3.2792367045365047, the second norm of v is 0.0010620909982233704, the delt is 0.13052011308193195
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 6
+the Is is 2.366765164327123E-5, the k is 0.4778715525261187, the Vth is 3.2568296787987263, the second norm of v is 0.0010930338750813407, the delt is 0.09304735836380837
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.833878812632247E-5, the k is 0.45058856219426807, the Vth is 2.918142733449255, the second norm of v is 8.293750745413606E-4, the delt is 0.14306271362723638
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.868830766435775E-5, the k is 0.45734539960887066, the Vth is 2.986609685115538, the second norm of v is 8.369435763564932E-4, the delt is 0.22379406601734436
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.90669329038075E-5, the k is 0.46472375021358914, the Vth is 3.056373244466982, the second norm of v is 8.521687709320662E-4, the delt is 0.383418927574622
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.9485582455572127E-5, the k is 0.4729384015105219, the Vth is 3.128418339174648, the second norm of v is 8.757403048208328E-4, the delt is 0.6198023646184225
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.9966222450655147E-5, the k is 0.482464820799645, the Vth is 3.205200986228264, the second norm of v is 9.0910047646488E-4, the delt is 0.7973414441129574
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 2.0547374984649284E-5, the k is 0.49422113834397274, the Vth is 3.2913383636489253, the second norm of v is 9.54986050095113E-4, the delt is 0.8285677032436004
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 2.1276409890975976E-5, the k is 0.5094780204424056, the Vth is 3.3924744248533565, the second norm of v is 0.0010169326595627238, the delt is 1.1925700353504212
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 7
+the Is is 2.103997227701536E-5, the k is 0.5051060186625901, the Vth is 3.2750352557903675, the second norm of v is 0.0010461789816826605, the delt is 0.14260509886552541
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 7
+the Is is 2.097789703907967E-5, the k is 0.5036241934079255, the Vth is 3.2396728241078696, the second norm of v is 0.0010753734158527096, the delt is 0.09914627851526023
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 1.9234454705951706E-5, the k is 0.4607257021684378, the Vth is 3.0130083457020005, the second norm of v is 8.83313306915931E-4, the delt is 0.171659864087915
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.1091068676726075E-5, the k is 0.5041639635277814, the Vth is 3.2551203760001073, the second norm of v is 0.001068248136192146, the delt is 0.10912181109204742
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.164884651499028E-5, the k is 0.5156232555672906, the Vth is 3.339601687697861, the second norm of v is 0.0010867284667849424, the delt is 0.12676863572562053
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.2279299034109077E-5, the k is 0.5288953505682443, the Vth is 3.428170782063845, the second norm of v is 0.0011176636254976756, the delt is 0.19890698303806398
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 8
+the Is is 1.7749239726942584E-5, the k is 0.5073087847613067, the Vth is 3.111413782105979, the second norm of v is 9.504422686158755E-4, the delt is 0.175276012463134
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 8
+the Is is 1.8205818428433754E-5, the k is 0.5176105226944772, the Vth is 3.1893117051911952, the second norm of v is 9.728288618254836E-4, the delt is 0.21063294507323918
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 8
+the Is is 1.8148052389968143E-5, the k is 0.5154294936084949, the Vth is 3.146125697551076, the second norm of v is 0.001006027748127749, the delt is 0.12765989667430305
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.5996992248393805E-5, the k is 0.45266422428304015, the Vth is 2.8016413512818934, the second norm of v is 7.247765177793955E-4, the delt is 0.20450380555329895
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.8152445893002488E-5, the k is 0.5127799703655899, the Vth is 3.1365395135915084, the second norm of v is 0.0010005264683678532, the delt is 0.12843995983486967
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.852381695522927E-5, the k is 0.5206968689460496, the Vth is 3.2029340235550343, the second norm of v is 0.0010068895552813818, the delt is 0.15625333364883454
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.8966034106881156E-5, the k is 0.5305106348522466, the Vth is 3.2761157910900778, the second norm of v is 0.0010260770792965418, the delt is 0.1689021168667234
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 2.094595658330217E-5, the k is 0.5837124630888918, the Vth is 3.5150515897838885, the second norm of v is 0.0012107488647005744, the delt is 0.20449168224069295
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 2.1198971310028006E-5, the k is 0.588995385540575, the Vth is 3.5575895673667253, the second norm of v is 0.0012136649852430097, the delt is 0.46762171212609427
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 2.067665153603863E-5, the k is 0.570994969166247, the Vth is 3.5249188134695744, the second norm of v is 0.0011430806187052852, the delt is 1.2425834715606154
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 8
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 7
+the Is is 2.098875902738E-5, the k is 0.5775073949523524, the Vth is 3.486615609876186, the second norm of v is 0.0012141187700244636, the delt is 0.12704795202794641
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 7
+the Is is 2.1592157427659775E-5, the k is 0.591229196235735, the Vth is 3.5635730804718677, the second norm of v is 0.0012414679791576514, the delt is 0.3183488545851781
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 8
+the Is is 1.6573525410814403E-5, the k is 0.5455277407491561, the Vth is 3.2265260830860756, the second norm of v is 9.465736984012024E-4, the delt is 0.3604795012880966
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 8
+the Is is 1.7001221008802725E-5, the k is 0.5558528990337828, the Vth is 3.296886011568885, the second norm of v is 9.800384316471732E-4, the delt is 0.3496815757419315
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 8
+the Is is 1.7506768019480923E-5, the k is 0.5687482070053539, the Vth is 3.3764384650245955, the second norm of v is 0.001023723493707883, the delt is 0.3845659767593716
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 8
+the Is is 1.807798758798625E-5, the k is 0.5839322047634147, the Vth is 3.4626971495296734, the second norm of v is 0.0010756623469300344, the delt is 0.9061046678565294
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 8
+the Is is 1.7835994858420042E-5, the k is 0.5763137253927363, the Vth is 3.3342105020497477, the second norm of v is 0.0011195225412752978, the delt is 0.08166553443034431
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 8
+the Is is 1.828054298382503E-5, the k is 0.5875623225684575, the Vth is 3.404357155389904, the second norm of v is 0.0011382997595356587, the delt is 0.10072972678588989
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 8
+the Is is 1.8739256537995323E-5, the k is 0.5990977922505947, the Vth is 3.4720529389800823, the second norm of v is 0.001161921952485924, the delt is 0.17568380049684343
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.796986803200766E-5, the k is 0.5747536859163684, the Vth is 3.306241824981609, the second norm of v is 0.0011687011937929, the delt is 0.05546216377108471
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.836879254032398E-5, the k is 0.5845758495022911, the Vth is 3.3740345145798716, the second norm of v is 0.0011698344278465763, the delt is 0.06475719538257255
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.8788010227878678E-5, the k is 0.5949905872143049, the Vth is 3.44131892458256, the second norm of v is 0.001178797060608286, the delt is 0.097485635508051
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.922738457259962E-5, the k is 0.6059456009674105, the Vth is 3.5074177749034683, the second norm of v is 0.0011955423892506401, the delt is 0.20939622831494467
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.968573050838268E-5, the k is 0.6173261734145076, the Vth is 3.5716871301907065, the second norm of v is 0.001220018812100444, the delt is 0.5536712024553403
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 2.0193042638719546E-5, the k is 0.6297619361369187, the Vth is 3.63662554574541, the second norm of v is 0.001254281268529275, the delt is 1.2104060033258777
+the smallest V is 2.5381491606342493E-6
+the Is is 1.0E-6, k is 0.9, Vth is 1.1
+
+
+
+(2) For normalized data 
+
+    The smallest V is 115.42362771441067
+    the Is is 3.0E-6, k is 0.6, Vth is 1.7
+
+
+
+the Is is 2.9999999999999984E-8, the k is 0.7999999999999997, the Vth is 1.4000000000000015, the second norm of v is 987.3782933501893, the delt is 0.5706911574520452
+the counter is 1
+the Is is 2.9999999999999984E-8, the k is 0.7999999999999997, the Vth is 1.5000000000000016, the second norm of v is 990.0833872343892, the delt is 0.4927979716417997
+the counter is 1
+the Is is 2.9999999999999865E-8, the k is 0.7999999999999972, the Vth is 1.6000000000000116, the second norm of v is 992.2643132938432, the delt is 0.43074286931767086
+the counter is 1
+the Is is 2.999999999999994E-8, the k is 0.7999999999999986, the Vth is 1.7000000000000055, the second norm of v is 994.189321299053, the delt is 0.3805915375059781
+the counter is 1
+the Is is 2.999999999999997E-8, the k is 0.7999999999999994, the Vth is 1.8000000000000027, the second norm of v is 995.9125949783904, the delt is 0.33938869102397584
+the counter is 1
+the Is is 2.999999999999994E-8, the k is 0.7999999999999986, the Vth is 1.9000000000000052, the second norm of v is 997.4320993263582, the delt is 0.3051379690224648
+the counter is 1
+the Is is 2.999999999999994E-8, the k is 0.7999999999999986, the Vth is 2.000000000000005, the second norm of v is 998.7589259197404, the delt is 0.2766889304036002
+the counter is 2
+the Is is 2.9223065937966524E-8, the k is 0.8838566160309241, the Vth is 0.8686585266636924, the second norm of v is 849.5350137406089, the delt is 1.7472004408419533
+the counter is 1
+the Is is 3.0E-8, the k is 0.8999999999999999, the Vth is 0.9000000000000005, the second norm of v is 858.6975795402917, the delt is 1.6375662966122282
+the counter is 1
+the Is is 3.0000000000000004E-8, the k is 0.8999999999999999, the Vth is 1.0000000000000002, the second norm of v is 940.0935455298898, the delt is 1.289882273058595
+the counter is 1
+the Is is 2.9999999999999964E-8, the k is 0.8999999999999991, the Vth is 1.1000000000000036, the second norm of v is 964.4202304713746, the delt is 1.0406822187155522
+the counter is 1
+the Is is 2.999999999999999E-8, the k is 0.8999999999999998, the Vth is 1.2000000000000008, the second norm of v is 972.0859686947022, the delt is 0.8569207455091228
+the counter is 1
+the Is is 2.9999999999999964E-8, the k is 0.8999999999999991, the Vth is 1.3000000000000034, the second norm of v is 977.7155838822334, the delt is 0.718110885404736
+the counter is 1
+the Is is 2.9999999999999984E-8, the k is 0.8999999999999996, the Vth is 1.4000000000000015, the second norm of v is 982.1461033876446, the delt is 0.610953475396584
+the counter is 1
+the Is is 2.999999999999993E-8, the k is 0.8999999999999984, the Vth is 1.5000000000000062, the second norm of v is 985.4762196092539, the delt is 0.5265262702856983
+the counter is 1
+the Is is 2.999999999999986E-8, the k is 0.8999999999999967, the Vth is 1.6000000000000119, the second norm of v is 988.1485639805798, the delt is 0.4593017946356703
+the counter is 1
+the Is is 2.999999999999997E-8, the k is 0.8999999999999992, the Vth is 1.7000000000000028, the second norm of v is 990.519242346662, the delt is 0.4049959469905178
+the counter is 1
+the Is is 2.999999999999997E-8, the k is 0.8999999999999992, the Vth is 1.8000000000000027, the second norm of v is 992.6453194819549, the delt is 0.360388758252392
+the counter is 1
+the Is is 2.999999999999997E-8, the k is 0.8999999999999992, the Vth is 1.9000000000000026, the second norm of v is 994.5196488201642, the delt is 0.32330674339886156
+the counter is 1
+the Is is 2.999999999999994E-8, the k is 0.8999999999999985, the Vth is 2.0000000000000053, the second norm of v is 996.1510702942517, the delt is 0.2925867657834661
+V has quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 9.185762641259002E-8, the k is 0.4652232166023827, the Vth is 1.0614929781335989, the second norm of v is 947.7161626468575, the delt is 0.8997644075491695
+V has quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 9.552614973072103E-8, the k is 0.4807511402736921, the Vth is 1.0417100871483473, the second norm of v is 936.5047280162246, the delt is 0.9511040799303445
+the counter is 2
+the Is is 9.904614530222948E-8, the k is 0.49588318497597583, the Vth is 1.0296222092122451, the second norm of v is 923.463877707184, the delt is 0.9900470255030959
+the counter is 1
+the Is is 9.999999999999994E-8, the k is 0.4999999999999998, the Vth is 1.1000000000000016, the second norm of v is 943.2997888431875, the delt is 0.8576881615668352
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.4999999999999999, the Vth is 1.2000000000000008, the second norm of v is 963.8883891513534, the delt is 0.7075255141113824
+the counter is 1
+the Is is 9.999999999999994E-8, the k is 0.4999999999999998, the Vth is 1.3000000000000016, the second norm of v is 972.5040154727124, the delt is 0.5940017951669035
+the counter is 1
+the Is is 9.999999999999989E-8, the k is 0.49999999999999956, the Vth is 1.4000000000000028, the second norm of v is 977.7748916289743, the delt is 0.5063770363234043
+the counter is 1
+the Is is 9.99999999999998E-8, the k is 0.4999999999999991, the Vth is 1.5000000000000058, the second norm of v is 981.6846234992921, the delt is 0.43758356801002124
+the counter is 1
+the Is is 9.999999999999989E-8, the k is 0.49999999999999956, the Vth is 1.600000000000003, the second norm of v is 984.8485209409008, the delt is 0.3828331947278018
+the counter is 1
+the Is is 9.999999999999994E-8, the k is 0.4999999999999998, the Vth is 1.7000000000000013, the second norm of v is 987.5783419979166, the delt is 0.3386331416542885
+the counter is 1
+the Is is 9.999999999999961E-8, the k is 0.4999999999999982, the Vth is 1.8000000000000105, the second norm of v is 989.9936993893999, the delt is 0.30242778503330203
+the counter is 1
+the Is is 9.99999999999999E-8, the k is 0.49999999999999956, the Vth is 1.9000000000000024, the second norm of v is 992.129887635408, the delt is 0.27245734614005557
+the counter is 1
+the Is is 9.999999999999961E-8, the k is 0.4999999999999983, the Vth is 2.0000000000000098, the second norm of v is 994.019999524257, the delt is 0.24749239286373342
+V has quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 9.52043775528781E-8, the k is 0.5765566488363693, the Vth is 0.9468943991580521, the second norm of v is 853.4814873846468, the delt is 1.2708486738917981
+the counter is 3
+the Is is 9.86864796436178E-8, the k is 0.5935411127691897, the Vth is 0.9396140741248938, the second norm of v is 835.4208518191292, the delt is 1.3193114460945734
+the counter is 1
+the Is is 9.999999999999998E-8, the k is 0.5999999999999999, the Vth is 1.0000000000000004, the second norm of v is 872.7060428491944, the delt is 1.154124707003855
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.5999999999999999, the Vth is 1.100000000000001, the second norm of v is 930.0463608392258, the delt is 0.9301806812645601
+the counter is 1
+the Is is 9.999999999999998E-8, the k is 0.5999999999999999, the Vth is 1.2000000000000004, the second norm of v is 948.9076417357361, the delt is 0.7652101834015982
+the counter is 1
+the Is is 9.999999999999994E-8, the k is 0.5999999999999996, the Vth is 1.3000000000000016, the second norm of v is 958.5062733772437, the delt is 0.6407176275120168
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.5999999999999999, the Vth is 1.4000000000000006, the second norm of v is 965.4351067435938, the delt is 0.5447404152932902
+the counter is 1
+the Is is 9.999999999999989E-8, the k is 0.5999999999999994, the Vth is 1.5000000000000029, the second norm of v is 970.757036639245, the delt is 0.4694262768361237
+the counter is 1
+the Is is 9.999999999999978E-8, the k is 0.5999999999999989, the Vth is 1.6000000000000059, the second norm of v is 975.0861029507728, the delt is 0.4095640168527148
+the counter is 1
+the Is is 9.999999999999978E-8, the k is 0.5999999999999989, the Vth is 1.7000000000000055, the second norm of v is 978.8608640837908, the delt is 0.36129923381998463
+the counter is 1
+the Is is 9.999999999999989E-8, the k is 0.5999999999999994, the Vth is 1.8000000000000027, the second norm of v is 982.2220116377162, the delt is 0.3217842407557093
+the counter is 1
+the Is is 9.99999999999998E-8, the k is 0.5999999999999989, the Vth is 1.900000000000005, the second norm of v is 985.1923913202147, the delt is 0.2890797484360976
+the counter is 1
+the Is is 9.99999999999999E-8, the k is 0.5999999999999994, the Vth is 2.0000000000000027, the second norm of v is 987.8087095225923, the delt is 0.2619009581781164
+the counter is 2
+the Is is 9.523425432368635E-8, the k is 0.6742612520218964, the Vth is 0.9380057919288606, the second norm of v is 803.6051657687237, the delt is 1.4242691881568053
+the counter is 2
+the Is is 9.883674710222538E-8, the k is 0.6936591174541878, the Vth is 0.9333244229792137, the second norm of v is 791.3655555827713, the delt is 1.4811863671879146
+the counter is 1
+the Is is 9.999999999999998E-8, the k is 0.7, the Vth is 1.0000000000000002, the second norm of v is 849.4822488619542, the delt is 1.2746450492818353
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.6999999999999997, the Vth is 1.100000000000001, the second norm of v is 910.8242465070191, the delt is 1.02338753722382
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.6999999999999997, the Vth is 1.2000000000000008, the second norm of v is 930.5201576137523, the delt is 0.8388020020924088
+the counter is 1
+the Is is 9.999999999999993E-8, the k is 0.6999999999999996, the Vth is 1.3000000000000016, the second norm of v is 942.3709020122535, the delt is 0.6998655442376142
+the counter is 1
+the Is is 9.999999999999994E-8, the k is 0.6999999999999996, the Vth is 1.4000000000000015, the second norm of v is 951.4524803805238, the delt is 0.5929823266649703
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.6999999999999998, the Vth is 1.5000000000000007, the second norm of v is 958.4106499537877, the delt is 0.5092104427585051
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.6999999999999998, the Vth is 1.6000000000000008, the second norm of v is 964.0494762029917, the delt is 0.4427500562826945
+the counter is 1
+the Is is 9.999999999999989E-8, the k is 0.6999999999999993, the Vth is 1.7000000000000028, the second norm of v is 969.0047962275177, the delt is 0.38925956997229505
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.6999999999999998, the Vth is 1.8000000000000007, the second norm of v is 973.4364314939871, the delt is 0.3455184112621324
+the counter is 1
+the Is is 9.999999999999994E-8, the k is 0.6999999999999996, the Vth is 1.9000000000000012, the second norm of v is 977.3503323545672, the delt is 0.3093488460926357
+the counter is 1
+the Is is 9.999999999999978E-8, the k is 0.6999999999999987, the Vth is 2.0000000000000053, the second norm of v is 980.7832699939661, the delt is 0.2793855908905288
+the counter is 2
+the Is is 9.464257047071505E-8, the k is 0.7687241230007817, the Vth is 0.946527071015898, the second norm of v is 782.1158396115188, the delt is 1.5458672694915447
+the counter is 2
+the Is is 9.870132411471557E-8, the k is 0.7923312471160874, the Vth is 0.9352566878523288, the second norm of v is 764.7869981405478, the delt is 1.6554919478327117
+the counter is 1
+the Is is 1.0E-7, the k is 0.8, the Vth is 1.0, the second norm of v is 821.655176814685, the delt is 1.4327785361646388
+the counter is 1
+the Is is 9.999999999999996E-8, the k is 0.7999999999999998, the Vth is 1.100000000000001, the second norm of v is 888.2727057099855, the delt is 1.1444419399464625
+the counter is 1
+the Is is 9.999999999999996E-8, the k is 0.7999999999999998, the Vth is 1.2000000000000008, the second norm of v is 909.8164624028844, the delt is 0.9334271363720985
+the counter is 1
+the Is is 9.999999999999998E-8, the k is 0.7999999999999999, the Vth is 1.3000000000000005, the second norm of v is 924.4971582264926, the delt is 0.7751687154820484
+the counter is 1
+the Is is 9.999999999999998E-8, the k is 0.7999999999999999, the Vth is 1.4000000000000004, the second norm of v is 936.0332324039802, the delt is 0.6538266316841115
+the counter is 1
+the Is is 9.999999999999988E-8, the k is 0.7999999999999993, the Vth is 1.500000000000003, the second norm of v is 944.7970791844747, the delt is 0.5589424781939303
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.7999999999999998, the Vth is 1.6000000000000008, the second norm of v is 951.8658683594796, the delt is 0.4838751886186781
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.7999999999999998, the Vth is 1.7000000000000006, the second norm of v is 958.1195448254801, the delt is 0.4236131191895126
+the counter is 1
+the Is is 9.999999999999994E-8, the k is 0.7999999999999997, the Vth is 1.8000000000000014, the second norm of v is 963.730291316242, the delt is 0.37444208285752734
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.7999999999999998, the Vth is 1.9000000000000006, the second norm of v is 968.6845772951071, the delt is 0.3338618947142723
+the counter is 1
+the Is is 9.999999999999989E-8, the k is 0.7999999999999993, the Vth is 2.0000000000000027, the second norm of v is 973.0143307566653, the delt is 0.3003928094966808
+the counter is 2
+the Is is 9.386978225676259E-8, the k is 0.8621186414575158, the Vth is 0.9574043508307878, the second norm of v is 761.7143062674173, the delt is 1.690727721092685
+the counter is 3
+the Is is 9.835102744232881E-8, the k is 0.8896490347447192, the Vth is 0.9422888054587134, the second norm of v is 736.0922015377795, the delt is 1.8587686170375908
+the counter is 1
+the Is is 1.0E-7, the k is 0.9, the Vth is 1.0, the second norm of v is 791.3047164411671, the delt is 1.6449842005927682
+the counter is 1
+the Is is 9.999999999999998E-8, the k is 0.8999999999999999, the Vth is 1.1000000000000003, the second norm of v is 863.2175198926232, the delt is 1.3048125978491647
+the counter is 1
+the Is is 9.999999999999996E-8, the k is 0.8999999999999998, the Vth is 1.2000000000000008, the second norm of v is 887.2416090457624, the delt is 1.05723901435685
+the counter is 1
+the Is is 9.999999999999996E-8, the k is 0.8999999999999998, the Vth is 1.300000000000001, the second norm of v is 905.1251777481144, the delt is 0.8725133171844027
+the counter is 1
+the Is is 9.999999999999998E-8, the k is 0.8999999999999999, the Vth is 1.4000000000000004, the second norm of v is 919.3493151662648, the delt is 0.7315692543555381
+the counter is 1
+the Is is 9.999999999999998E-8, the k is 0.8999999999999999, the Vth is 1.5000000000000004, the second norm of v is 930.0608114916463, the delt is 0.6217857479192472
+the counter is 1
+the Is is 9.999999999999998E-8, the k is 0.8999999999999999, the Vth is 1.6000000000000005, the second norm of v is 938.6602335943921, the delt is 0.535281544904985
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.8999999999999998, the Vth is 1.7000000000000006, the second norm of v is 946.3128433438286, the delt is 0.4660987276016865
+the counter is 1
+the Is is 9.999999999999988E-8, the k is 0.8999999999999991, the Vth is 1.800000000000003, the second norm of v is 953.1957578760416, the delt is 0.4098459194240584
+the counter is 1
+the Is is 9.999999999999997E-8, the k is 0.8999999999999998, the Vth is 1.9000000000000006, the second norm of v is 959.2746295674698, the delt is 0.36357155462979157
+the counter is 1
+the Is is 9.999999999999998E-8, the k is 0.8999999999999999, the Vth is 2.0000000000000004, the second norm of v is 964.5710369148379, the delt is 0.32563224059919404
+V has quadratic convergence
+Delt does not have quadratic convergence
+the counter is 9
+the Is is 2.6943005120790807E-7, the k is 0.45632537462234307, the Vth is 1.123869131883907, the second norm of v is 884.6433792049353, the delt is 0.901422896184255
+the counter is 2
+the Is is 2.73689283139363E-7, the k is 0.46239929511739347, the Vth is 1.1727934935402704, the second norm of v is 888.755528869697, the delt is 0.8267003512210138
+the counter is 3
+the Is is 2.9206345795870014E-7, the k is 0.4885615048230269, the Vth is 1.0815293529634527, the second norm of v is 837.1486260273277, the delt is 1.0557956508582511
+the counter is 1
+the Is is 3.0E-7, the k is 0.49999999999999994, the Vth is 1.1000000000000003, the second norm of v is 825.9917084652192, the delt is 1.0426636939856893
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.49999999999999994, the Vth is 1.2000000000000004, the second norm of v is 875.559240893045, the delt is 0.8484631385600623
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.4999999999999999, the Vth is 1.300000000000001, the second norm of v is 900.3268518049415, the delt is 0.7031333927433577
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.4999999999999999, the Vth is 1.4000000000000008, the second norm of v is 915.601619361157, the delt is 0.5920285277817192
+the counter is 1
+the Is is 3.0E-7, the k is 0.49999999999999994, the Vth is 1.5000000000000002, the second norm of v is 926.9416301771906, the delt is 0.5055875668694683
+the counter is 1
+the Is is 2.9999999999999983E-7, the k is 0.4999999999999998, the Vth is 1.6000000000000016, the second norm of v is 936.1240807231555, the delt is 0.43737583215682385
+the counter is 1
+the Is is 2.9999999999999983E-7, the k is 0.4999999999999998, the Vth is 1.7000000000000013, the second norm of v is 944.0607573207608, the delt is 0.3827566806988988
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.49999999999999994, the Vth is 1.8000000000000005, the second norm of v is 951.097742146038, the delt is 0.33837907528496125
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.4999999999999999, the Vth is 1.9000000000000006, the second norm of v is 957.3313222826281, the delt is 0.30193929852120477
+the counter is 1
+the Is is 2.9999999999999983E-7, the k is 0.4999999999999998, the Vth is 2.0000000000000013, the second norm of v is 962.853744301432, the delt is 0.27181106328295684
+the counter is 2
+the Is is 2.6754047613048077E-7, the k is 0.5475440958353284, the Vth is 1.119519056619883, the second norm of v is 838.1255250118325, the delt is 1.0429577394382668
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 2.901990990696757E-7, the k is 0.5839696577537391, the Vth is 0.9963736051722649, the second norm of v is 700.4889071442032, the delt is 1.5455518199774603
+the counter is 1
+the Is is 2.9999999999999956E-7, the k is 0.5999999999999993, the Vth is 1.0000000000000042, the second norm of v is 677.9988739216307, the delt is 1.6228392988591325
+the counter is 1
+the Is is 3.0E-7, the k is 0.6, the Vth is 1.1000000000000003, the second norm of v is 781.3980620758141, the delt is 1.2739260746172698
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.5999999999999999, the Vth is 1.2000000000000004, the second norm of v is 833.7959804611686, the delt is 1.0225820909138421
+the counter is 1
+the Is is 3.0E-7, the k is 0.6, the Vth is 1.3000000000000003, the second norm of v is 860.9415751015476, the delt is 0.8367964786696144
+the counter is 1
+the Is is 2.999999999999998E-7, the k is 0.5999999999999996, the Vth is 1.4000000000000017, the second norm of v is 880.6868301644571, the delt is 0.6963078752862207
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.5999999999999999, the Vth is 1.5000000000000004, the second norm of v is 895.8954040458005, the delt is 0.588044027069264
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.5999999999999999, the Vth is 1.600000000000001, the second norm of v is 908.2805719672709, the delt is 0.5034180614828485
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.5999999999999999, the Vth is 1.7000000000000006, the second norm of v is 919.1141154848997, the delt is 0.43625525250614083
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.5999999999999999, the Vth is 1.8000000000000005, the second norm of v is 928.7933210583443, the delt is 0.3821136866555609
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.5999999999999999, the Vth is 1.9000000000000006, the second norm of v is 937.3673957991073, the delt is 0.3379857882315902
+the counter is 1
+the Is is 2.9999999999999983E-7, the k is 0.5999999999999996, the Vth is 2.0000000000000013, the second norm of v is 944.9321700974691, the delt is 0.30182668015884806
+the counter is 2
+the Is is 2.790848391238257E-7, the k is 0.662830026493028, the Vth is 0.9909117067188444, the second norm of v is 648.1691373429462, the delt is 1.8694339607295003
+the counter is 2
+the Is is 2.902029381528652E-7, the k is 0.6824005104642573, the Vth is 0.9894220788165669, the second norm of v is 626.91733276181, the delt is 2.060017085657295
+the counter is 1
+the Is is 3.0E-7, the k is 0.7, the Vth is 1.0000000000000002, the second norm of v is 611.3440903945669, the delt is 2.1978927003994637
+the counter is 1
+the Is is 3.0E-7, the k is 0.7, the Vth is 1.1, the second norm of v is 730.5016397272109, the delt is 1.6800583145349568
+the counter is 1
+the Is is 3.0E-7, the k is 0.7, the Vth is 1.2000000000000002, the second norm of v is 783.9569155889716, the delt is 1.3171532887200783
+the counter is 1
+the Is is 3.0E-7, the k is 0.7, the Vth is 1.3, the second norm of v is 816.5836052771881, the delt is 1.0553809718347589
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.7, the Vth is 1.4000000000000001, the second norm of v is 841.9871577816382, the delt is 0.8616817979265166
+the counter is 1
+the Is is 3.0E-7, the k is 0.7, the Vth is 1.5000000000000002, the second norm of v is 861.5303027248593, the delt is 0.715201840622349
+the counter is 1
+the Is is 2.999999999999998E-7, the k is 0.6999999999999996, the Vth is 1.6000000000000019, the second norm of v is 877.3888218722442, the delt is 0.6026698882567094
+the counter is 1
+the Is is 3.0E-7, the k is 0.7, the Vth is 1.7000000000000002, the second norm of v is 891.3946246713766, the delt is 0.5147512097857094
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.6999999999999997, the Vth is 1.800000000000001, the second norm of v is 903.9832903145358, the delt is 0.4448774255667933
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.6999999999999997, the Vth is 1.9000000000000006, the second norm of v is 915.1378378864007, the delt is 0.38867593962336094
+the counter is 1
+the Is is 3.0E-7, the k is 0.7, the Vth is 2.0, the second norm of v is 924.942659385594, the delt is 0.3432803093126443
+the counter is 2
+the Is is 2.692818930828404E-7, the k is 0.741688092967153, the Vth is 1.0555724357864558, the second norm of v is 691.5146838503193, the delt is 1.9423202677097624
+the counter is 2
+the Is is 2.863294892676856E-7, the k is 0.7736825279552886, the Vth is 1.0149244954532006, the second norm of v is 594.5660769911052, the delt is 2.6643032514756073
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.7999999999999998, the Vth is 1.0, the second norm of v is 544.328034299869, the delt is 2.7576878814816492
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.7999999999999999, the Vth is 1.1000000000000008, the second norm of v is 673.5978748867503, the delt is 2.5108440172438535
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.7999999999999999, the Vth is 1.2000000000000002, the second norm of v is 729.6456652164886, the delt is 1.8824570368536369
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.7999999999999999, the Vth is 1.3000000000000003, the second norm of v is 768.8436370676469, the delt is 1.4521686457642364
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.7999999999999999, the Vth is 1.4000000000000004, the second norm of v is 800.433307812061, the delt is 1.1475888491190567
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.7999999999999999, the Vth is 1.5000000000000004, the second norm of v is 824.5551381520883, the delt is 0.9257815412008292
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.7999999999999999, the Vth is 1.6000000000000005, the second norm of v is 844.0389540499482, the delt is 0.7608260764089732
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.7999999999999998, the Vth is 1.7000000000000008, the second norm of v is 861.4026958647775, the delt is 0.6355584072571111
+the counter is 1
+the Is is 3.0E-7, the k is 0.8, the Vth is 1.8, the second norm of v is 877.0906572767909, the delt is 0.5384838622488527
+the counter is 1
+the Is is 2.999999999999999E-7, the k is 0.7999999999999998, the Vth is 1.9000000000000008, the second norm of v is 891.0044136617191, the delt is 0.4621606085685681
+the counter is 1
+the Is is 2.999999999999998E-7, the k is 0.7999999999999996, the Vth is 2.0000000000000013, the second norm of v is 903.1965153344506, the delt is 0.40190604722832435
+the counter is 2
+the Is is 2.6832453702913577E-7, the k is 0.8374565499976457, the Vth is 1.034245691363959, the second norm of v is 608.5459941029953, the delt is 3.038058233549288
+the counter is 2
+the Is is 2.8791904131059016E-7, the k is 0.8757093854477618, the Vth is 0.991714253551248, the second norm of v is 502.8543670508142, the delt is 5.347648292370412
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.8999999999999999, the Vth is 1.0000000000000004, the second norm of v is 476.71041796522263, the delt is 7.532566206244739
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.8999999999999999, the Vth is 1.1000000000000005, the second norm of v is 613.796145289696, the delt is 4.7790079844362126
+the counter is 1
+the Is is 3.0E-7, the k is 0.9, the Vth is 1.2000000000000002, the second norm of v is 672.7680848237904, the delt is 3.2423678405179404
+the counter is 1
+the Is is 3.0E-7, the k is 0.9, the Vth is 1.3000000000000003, the second norm of v is 718.8603744500781, the delt is 2.314154018495731
+the counter is 1
+the Is is 3.0E-7, the k is 0.9, the Vth is 1.4000000000000001, the second norm of v is 756.8676929911561, the delt is 1.7186134872492893
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.8999999999999998, the Vth is 1.5000000000000007, the second norm of v is 785.668829853274, the delt is 1.3177716459117965
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.8999999999999999, the Vth is 1.6000000000000003, the second norm of v is 808.8237321471468, the delt is 1.0380080090375894
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.8999999999999999, the Vth is 1.7000000000000004, the second norm of v is 829.6416916453976, the delt is 0.8364850716596615
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.8999999999999999, the Vth is 1.8000000000000003, the second norm of v is 848.5417845097672, the delt is 0.6872034251272873
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.8999999999999999, the Vth is 1.9000000000000004, the second norm of v is 865.3307472760129, the delt is 0.5742961734807962
+the counter is 1
+the Is is 2.9999999999999993E-7, the k is 0.8999999999999999, the Vth is 2.0000000000000004, the second norm of v is 880.0057044644977, the delt is 0.48833691379469757
+the counter is 2
+the Is is 8.212462987521713E-7, the k is 0.4239500139727276, the Vth is 1.3115530786431986, the second norm of v is 793.0765087683036, the delt is 0.9248140644460248
+the counter is 2
+the Is is 8.684972870954348E-7, the k is 0.44361282078900016, the Vth is 1.2817365830975318, the second norm of v is 753.0422032471675, the delt is 1.135927582316108
+the counter is 2
+the Is is 1.0287393307707175E-6, the k is 0.5149926352131525, the Vth is 1.157405128285399, the second norm of v is 537.7556257839996, the delt is 5.104067804674189
+the counter is 3
+the Is is 9.918517142337774E-7, the k is 0.49645040188087397, the Vth is 1.124023425752481, the second norm of v is 563.5423345896164, the delt is 3.7081418870548575
+the counter is 1
+the Is is 1.0E-6, the k is 0.5, the Vth is 1.2, the second norm of v is 607.2949930982788, the delt is 2.9659780874036183
+the counter is 1
+the Is is 1.0E-6, the k is 0.5, the Vth is 1.3, the second norm of v is 677.262235529245, the delt is 2.0803346014276873
+the counter is 1
+the Is is 9.999999999999997E-7, the k is 0.49999999999999994, the Vth is 1.4000000000000001, the second norm of v is 721.9030834032842, the delt is 1.5257536177621855
+the counter is 1
+the Is is 1.0E-6, the k is 0.49999999999999994, the Vth is 1.5000000000000002, the second norm of v is 755.1626301826317, the delt is 1.1597481177544826
+the counter is 1
+the Is is 1.0E-6, the k is 0.5, the Vth is 1.6000000000000003, the second norm of v is 782.1629779157997, the delt is 0.9080539308354675
+the counter is 1
+the Is is 1.0E-6, the k is 0.49999999999999994, the Vth is 1.7000000000000002, the second norm of v is 805.6693898843312, the delt is 0.7289254821394712
+the counter is 1
+the Is is 9.999999999999997E-7, the k is 0.49999999999999994, the Vth is 1.8000000000000005, the second norm of v is 826.6866535616178, the delt is 0.5976914686113641
+the counter is 1
+the Is is 9.999999999999997E-7, the k is 0.49999999999999983, the Vth is 1.9000000000000008, the second norm of v is 845.4237670001507, the delt is 0.49932735311604404
+the counter is 1
+the Is is 9.999999999999997E-7, the k is 0.49999999999999983, the Vth is 2.000000000000001, the second norm of v is 862.1061811724902, the delt is 0.4241551640815463
+the counter is 1
+the Is is 1.0E-6, the k is 0.6, the Vth is 0.7999999999999998, the second norm of v is 1474504.212649659, the delt is 5.059621729156781
+the counter is 1
+the Is is 1.0E-6, the k is 0.6, the Vth is 0.8999999999999999, the second norm of v is 28357.064994273245, the delt is 10.059951489045423
+the counter is 1
+the Is is 1.0E-6, the k is 0.6, the Vth is 0.9999999999999999, the second norm of v is 835.2716091026381, the delt is 28.97846299852345
+the counter is 1
+the Is is 7.69254096817715E-6, the k is 3.868505426942149, the Vth is -16.857774930711635, the second norm of v is NaN, the delt is 340.9792449108997
+the counter is 1
+the Is is 1.0E-6, the k is 0.6, the Vth is 1.2, the second norm of v is 505.17224616673366, the delt is 155.44984783806763
+the counter is 1
+the Is is 1.0E-6, the k is 0.6, the Vth is 1.3000000000000003, the second norm of v is 576.4040583196903, the delt is 21.170956106125313
+the counter is 1
+the Is is 9.999999999999997E-7, the k is 0.5999999999999999, the Vth is 1.4000000000000006, the second norm of v is 630.0737164410368, the delt is 7.848512914621028
+the counter is 1
+the Is is 1.0E-6, the k is 0.6, the Vth is 1.5000000000000002, the second norm of v is 671.9347783134083, the delt is 4.021117219832087
+the counter is 1
+the Is is 1.0E-6, the k is 0.6, the Vth is 1.6, the second norm of v is 706.1949762320199, the delt is 2.425565598282631
+the counter is 1
+the Is is 9.999999999999997E-7, the k is 0.5999999999999999, the Vth is 1.7000000000000006, the second norm of v is 736.5814893408636, the delt is 1.6168454420877878
+the counter is 1
+the Is is 9.999999999999997E-7, the k is 0.5999999999999999, the Vth is 1.8000000000000007, the second norm of v is 764.1294085550405, the delt is 1.1539259776043254
+the counter is 1
+the Is is 1.0E-6, the k is 0.5999999999999999, the Vth is 1.9000000000000001, the second norm of v is 788.777240779044, the delt is 0.8663290025547179
+the counter is 1
+the Is is 1.0E-6, the k is 0.6, the Vth is 2.0000000000000004, the second norm of v is 810.6777181713277, the delt is 0.6765411045760781
+the counter is 1
+the Is is 1.0E-6, the k is 0.7, the Vth is 0.7999999999999999, the second norm of v is 364059.4315371278, the delt is 0.16515188138806408
+the counter is 1
+the Is is 1.0E-6, the k is 0.7, the Vth is 0.9, the second norm of v is 23190.33994607526, the delt is 0.3015928174778171
+the counter is 1
+the Is is 1.0E-6, the k is 0.7, the Vth is 0.9999999999999999, the second norm of v is 648.2826457501953, the delt is 0.5055251640715911
+the counter is 2
+the Is is 1.0236146598681833E-6, the k is 0.7118790622236459, the Vth is 1.045835754350413, the second norm of v is 210.2466881435106, the delt is 0.3675775966324636
+the counter is 2
+the Is is 1.0623779910822489E-6, the k is 0.7323172496538057, the Vth is 1.0452165266383229, the second norm of v is 187.35757497261162, the delt is 0.1483979589109417
+the counter is 3
+the Is is 1.0987970558702355E-6, the k is 0.7509764014372229, the Vth is 1.052462862058322, the second norm of v is 165.31610255492518, the delt is 0.06572116508283506
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 1.0803676249811633E-6, the k is 0.7361727156211703, the Vth is 1.0507981261762966, the second norm of v is 177.0586060656802, the delt is 0.11661602360517007
+the counter is 2
+the Is is 1.1619972945661265E-6, the k is 0.7897484305612607, the Vth is 1.0549943839718416, the second norm of v is 148.4421697786224, the delt is 0.011968466457989383
+the counter is 1
+the Is is -1.62036352507758E-5, the k is -8.998244416462171, the Vth is 49.30817677511277, the second norm of v is NaN, the delt is 1377.0058685202562
+the counter is 1
+the Is is 9.999999999999997E-7, the k is 0.6999999999999998, the Vth is 1.7000000000000006, the second norm of v is 665.7515021075496, the delt is 20.295759349306202
+the counter is 1
+the Is is 9.999999999999997E-7, the k is 0.6999999999999998, the Vth is 1.8000000000000007, the second norm of v is 699.4742524285517, the delt is 5.8789275412917235
+the counter is 1
+the Is is 1.0E-6, the k is 0.6999999999999998, the Vth is 1.9000000000000001, the second norm of v is 729.8059358861611, the delt is 2.7992710432604797
+the counter is 1
+the Is is 1.0E-6, the k is 0.7, the Vth is 2.0, the second norm of v is 756.7254409950814, the delt is 1.65619528397599
+the counter is 2
+the Is is 1.1325265872425607E-6, the k is 0.8191387659282224, the Vth is 0.9116754717604283, the second norm of v is 32487.5092368375, the delt is 0.35305915331884447
+the counter is 1
+the Is is 1.0000000000000002E-6, the k is 0.8, the Vth is 0.9, the second norm of v is 33665.9624782632, the delt is 0.01656437399572249
+the counter is 1
+the Is is 1.0E-6, the k is 0.8, the Vth is 1.0, the second norm of v is 616.9893259840214, the delt is 0.0324499052382327
+the counter is 2
+the Is is 1.0361330859344772E-6, the k is 0.8136690066241266, the Vth is 1.0431964933079036, the second norm of v is 159.82284386594736, the delt is 0.020880950106057384
+the counter is 3
+the Is is 1.0999543638382498E-6, the k is 0.8317995946519515, the Vth is 1.0395256653189988, the second norm of v is 170.00513243934822, the delt is 0.012499170955248782
+the counter is 2
+the Is is 1.1039799165151457E-6, the k is 0.8499131259170674, the Vth is 1.0493731617891138, the second norm of v is 160.2705678143109, the delt is 0.02979339653620648
+the counter is 3
+the Is is 1.1305738594428364E-6, the k is 0.8687345113828445, the Vth is 1.0553724640562123, the second norm of v is 171.22065475602656, the delt is 0.19035857748457355
+the counter is 3
+the Is is 1.1830804530409787E-6, the k is 0.8572027188771666, the Vth is 1.065387049521074, the second norm of v is 173.0054307053593, the delt is 0.04505062317215042
+V has quadratic convergence
+Delt has quadratic convergence
+the counter is 4
+the Is is 4.607743262791936E-6, the k is -0.7125721663839321, the Vth is 0.09756937193603454, the second norm of v is 8848.1980837421, the delt is 0.4466568776274294
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 7
+the Is is 1.0444155419617636E-6, the k is 0.9088559020389175, the Vth is 1.0503702243772701, the second norm of v is 181.7846822591413, the delt is 0.13651578800540917
+the counter is 3
+the Is is 1.4020693831142003E-6, the k is 0.7360417519284579, the Vth is 1.0468982461899916, the second norm of v is 180.19778763199866, the delt is 0.0076021576055018275
+the counter is 1
+the Is is 6.385839423093653E-6, the k is 4.166679996870325, the Vth is -13.593786585946999, the second norm of v is NaN, the delt is 113.21537702548551
+the counter is 1
+the Is is 9.999999999999997E-7, the k is 0.7999999999999999, the Vth is 2.0000000000000004, the second norm of v is 702.4461535335121, the delt is 41.06591395950807
+the counter is 1
+the Is is 1.0E-6, the k is 0.9, the Vth is 0.8, the second norm of v is 593926.7535786886, the delt is 4.990922539495467
+the counter is 2
+the Is is 9.779064284494573E-7, the k is 0.9658037999870841, the Vth is 1.1496068126826775, the second norm of v is 220.78776002162073, the delt is 0.5403974349358408
+the counter is 1
+the Is is 1.0000000000000006E-6, the k is 0.8999999999999997, the Vth is 0.9999999999999999, the second norm of v is 664.9911940374851, the delt is 0.6045164426119812
+the counter is 2
+the Is is 1.131457039505407E-6, the k is 0.8505840085902041, the Vth is 1.0524016911903122, the second norm of v is 162.17419571393208, the delt is 0.12321775576482676
+the counter is 3
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+the counter is 2
+the Is is 1.0926730240840565E-6, the k is 0.9026856647067523, the Vth is 1.0996584037444834, the second norm of v is 205.11651759080374, the delt is 0.07601860208285412
+the counter is 3
+the Is is 1.0578891507455064E-6, the k is 0.9201990314432955, the Vth is 1.0644716172847382, the second norm of v is 195.1323581183438, the delt is 0.030395075751369835
+the counter is 3
+the Is is 1.1255158781094482E-6, the k is 0.9553300447106452, the Vth is 1.1934428570675368, the second norm of v is 221.7052258713732, the delt is 2.4528636626843565
+V has quadratic convergence
+Delt has quadratic convergence
+the counter is 7
+the Is is 1.3135157474298176E-6, the k is 0.7840494228565382, the Vth is 1.0636403811397237, the second norm of v is 147.72396643266836, the delt is 0.03899826603266161
+the counter is 3
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+the counter is 3
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+the counter is 3
+the Is is 1.2035648792284545E-6, the k is 1.027383080189377, the Vth is 1.2629003039610314, the second norm of v is 256.5622020487217, the delt is 0.06341850158226683
+V has quadratic convergence
+Delt has quadratic convergence
+the counter is 48
+the Is is 3.860883542131602E-6, the k is -1.2687293328006128, the Vth is -0.22713515399563497, the second norm of v is 1009.9999999926331, the delt is 0.002431589895885819
+the counter is 2
+the Is is 3.023554823315464E-6, the k is 0.48739970039932917, the Vth is 0.8989899444613945, the second norm of v is 4200356.023541801, the delt is 0.17134234568118664
+the counter is 1
+the Is is 3.0E-6, the k is 0.4999999999999999, the Vth is 0.8999999999999997, the second norm of v is 2748242.82120269, the delt is 0.013810875144336801
+the counter is 2
+the Is is 2.7406252662288904E-6, the k is 0.519921478662877, the Vth is 0.9800732634944133, the second norm of v is 59910.55498130812, the delt is 0.03704809170154571
+the counter is 1
+the Is is 2.9999999999999997E-6, the k is 0.5, the Vth is 1.0999999999999996, the second norm of v is 1342.3832459663759, the delt is 0.023224361659451995
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 2.994518732285893E-6, the k is 0.5008013014341838, the Vth is 1.1824414242420924, the second norm of v is 184.03587894250595, the delt is 0.03093341007594338
+the counter is 2
+the Is is 3.0045780285418926E-6, the k is 0.5081322316906371, the Vth is 1.155677331298881, the second norm of v is 186.6045830252189, the delt is 0.030372238133009703
+V has quadratic convergence
+Delt does not have quadratic convergence
+the counter is 8
+the Is is 3.0022204334905648E-6, the k is 0.5133718475526471, the Vth is 1.170300590016764, the second norm of v is 158.26929837711185, the delt is 0.034821114982889506
+V has quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 2.9767050044623734E-6, the k is 0.5196667043975229, the Vth is 1.1635403785765104, the second norm of v is 148.92562374665124, the delt is 0.04219988427115411
+the counter is 3
+the Is is 2.80358179838878E-6, the k is 0.5353577668306466, the Vth is 1.1287942458960591, the second norm of v is 149.52538735533554, the delt is 0.048518038298790894
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 3.164871583938938E-6, the k is 0.5250923217289017, the Vth is 1.1648455234711677, the second norm of v is 139.6997354185447, the delt is 0.19178682150721915
+the counter is 2
+the Is is 3.355105289686633E-6, the k is 0.5615197507839499, the Vth is 1.218323152485991, the second norm of v is 198.89380409806952, the delt is 0.1589399532908103
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 2.6429301341120425E-6, the k is 0.5512050217074685, the Vth is 1.1192235536704465, the second norm of v is 132.45491745698246, the delt is 0.040734132022198624
+the counter is 2
+the Is is 3.534708010342094E-6, the k is 0.5890344287553938, the Vth is 1.278925567282336, the second norm of v is 268.2039974229783, the delt is 0.07570014504858891
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 4
+the Is is 2.8746658806032887E-6, the k is 0.5758155173309152, the Vth is 1.132327370562381, the second norm of v is 131.243245049896, the delt is 0.4506268741708194
+the counter is 2
+the Is is 2.8801651148835763E-6, the k is 0.5771057224432856, the Vth is 1.165742624094409, the second norm of v is 151.3335788353792, the delt is 1.0238933189914277
+the counter is 2
+the Is is 2.961725987636904E-6, the k is 0.5918915606512989, the Vth is 1.1377765805055036, the second norm of v is 160.16304448382897, the delt is 0.10695495443767564
+the counter is 3
+the Is is 2.998496537188346E-6, the k is 0.5992319307861614, the Vth is 1.1392190736315742, the second norm of v is 178.38471444309508, the delt is 0.08703949052959453
+the counter is 1
+the Is is 3.0000000000000005E-6, the k is 0.6, the Vth is 1.2000000000000013, the second norm of v is 202.8222638959747, the delt is 0.11351864360569723
+the counter is 1
+the Is is 3.0E-6, the k is 0.6, the Vth is 1.3000000000000003, the second norm of v is 251.48767194079633, the delt is 0.35703225513325804
+the counter is 2
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 5
+the Is is 2.9190184326876314E-6, the k is 0.5362929689745327, the Vth is 1.152008225456667, the second norm of v is 130.96491669936015, the delt is 0.1307791776976276
+the counter is 2
+the Is is 2.310866868589056E-6, the k is 0.5781816069498878, the Vth is 1.1014288271057373, the second norm of v is 125.40930459234497, the delt is 0.01566375478748964
+V has quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.2926409243779386E-6, the k is 0.5918531800253324, the Vth is 1.1104886247867127, the second norm of v is 115.42362771441067, the delt is 0.02216113976991968
+V has quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 2.7756553034321436E-6, the k is 0.5496510030922257, the Vth is 1.138981913557064, the second norm of v is 122.68264877321344, the delt is 0.08726434108717313
+V has quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 2.1576542752260756E-7, the k is 0.04843168794725764, the Vth is 2.6211652095704823, the second norm of v is 1.95872517410626E7, the delt is 0.1580961536289971
+the counter is 2
+the Is is 3.0356032814584605E-6, the k is 0.6207439812833306, the Vth is 1.3922584182508546, the second norm of v is 304.58560315982953, the delt is 0.2553183488884931
+the counter is 3
+the Is is 2.7532346030266273E-6, the k is 0.6524234226297255, the Vth is 1.207834994845016, the second norm of v is 239.0275243098767, the delt is 0.07640722612363056
+the counter is 3
+the Is is 2.785917437111972E-6, the k is 0.658729838439137, the Vth is 1.2335966525551203, the second norm of v is 252.49772886116335, the delt is 0.07334706996269796
+the counter is 2
+the Is is 2.8073237965210647E-6, the k is 0.6624991406245743, the Vth is 1.3160015206493005, the second norm of v is 275.73905260033087, the delt is 0.08305975083478502
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 2.905832320385816E-6, the k is 0.681244340908396, the Vth is 1.2976532814180115, the second norm of v is 303.15075321725635, the delt is 0.06362660851608035
+the counter is 2
+the Is is 2.9309995774736244E-6, the k is 0.6861453711916358, the Vth is 1.3554216529957386, the second norm of v is 323.25809883860865, the delt is 0.06254640824651583
+the counter is 2
+the Is is 2.974929920310507E-6, the k is 0.6948122490104321, the Vth is 1.3792187916945708, the second norm of v is 345.4721678364941, the delt is 0.05944020408253077
+the counter is 1
+the Is is 2.9999999999999992E-6, the k is 0.6999999999999998, the Vth is 1.4000000000000046, the second norm of v is 359.88332422564304, the delt is 0.05788965084722612
+the counter is 1
+the Is is 3.0E-6, the k is 0.7, the Vth is 1.5000000000000027, the second norm of v is 375.58066381978205, the delt is 0.06405617071361344
+the counter is 1
+the Is is 3.0000000000000005E-6, the k is 0.7, the Vth is 1.600000000000001, the second norm of v is 391.34130926372166, the delt is 0.09399818571987406
+the counter is 1
+the Is is 3.0E-6, the k is 0.7, the Vth is 1.7000000000000002, the second norm of v is 415.27810520516846, the delt is 0.22578214475440964
+the counter is 1
+the Is is 3.0E-6, the k is 0.7, the Vth is 1.8000000000000003, the second norm of v is 445.822340543639, the delt is 1.9403913722160608
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 2.3386767010732364E-6, the k is 0.5874526499360178, the Vth is 1.1092679078175725, the second norm of v is 115.75868164267665, the delt is 0.026897682924271856
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 4
+the Is is 4.095262493376088E-6, the k is 0.4758262210766142, the Vth is 1.236910159732045, the second norm of v is 202.0157890929621, the delt is 1.0964434762713045
+the counter is 3
+the Is is 2.6439623187864747E-6, the k is 0.7261680152265628, the Vth is 1.3281225908849847, the second norm of v is 317.35772990914523, the delt is 0.06127193655911368
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 2.696168556318741E-6, the k is 0.7369429589777736, the Vth is 1.3499672387844222, the second norm of v is 344.768946248826, the delt is 0.05874679193381993
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 2.639637758100462E-6, the k is 0.7210427185832907, the Vth is 1.4665094464326094, the second norm of v is 349.40406160765656, the delt is 0.08178939761365422
+the counter is 3
+the Is is 2.7564952670757596E-6, the k is 0.7489501681553391, the Vth is 1.4631354018298373, the second norm of v is 385.41271148595126, the delt is 0.05489969997379322
+the counter is 2
+the Is is 2.778863089565261E-6, the k is 0.7532836016285791, the Vth is 1.5340182684827346, the second norm of v is 396.54631641673274, the delt is 0.055424385991173365
+the counter is 2
+the Is is 2.8002325503073595E-6, the k is 0.7574243142533632, the Vth is 1.6273485842763795, the second norm of v is 409.03441805317925, the delt is 0.061727502856229854
+the counter is 2
+the Is is 2.82541273531446E-6, the k is 0.7624666876151122, the Vth is 1.7232777088119904, the second norm of v is 429.3128012216812, the delt is 0.07726848053709597
+the counter is 3
+the Is is 2.926167011554447E-6, the k is 0.7839955624242922, the Vth is 1.6841499540035105, the second norm of v is 447.53807671219704, the delt is 0.04665752859472081
+the counter is 2
+the Is is 2.9475133798173598E-6, the k is 0.7885528404676755, the Vth is 1.7652702867656078, the second norm of v is 459.9969578277594, the delt is 0.048740609255842185
+the counter is 2
+the Is is 2.9930277127450503E-6, the k is 0.7984713074475045, the Vth is 1.7432473694227257, the second norm of v is 471.97125967120104, the delt is 0.04258128607744748
+the counter is 1
+the Is is 3.0000000000000005E-6, the k is 0.8000000000000002, the Vth is 1.8000000000000216, the second norm of v is 477.3773220566036, the delt is 0.043952744304222545
+the counter is 1
+the Is is 3.0E-6, the k is 0.8, the Vth is 1.9000000000000001, the second norm of v is 488.38617643075304, the delt is 0.057174389849126074
+the counter is 1
+the Is is 3.0000000000000013E-6, the k is 0.8000000000000003, the Vth is 2.000000000000002, the second norm of v is 502.69076704632744, the delt is 0.11751959420035146
+the counter is 3
+the Is is 2.479262660834371E-6, the k is 0.7836661256288395, the Vth is 1.5302886105687852, the second norm of v is 381.66206366625664, the delt is 0.06185648954974608
+the counter is 3
+the Is is 2.5066165969463094E-6, the k is 0.7889769775682937, the Vth is 1.613945168153389, the second norm of v is 397.49935176758424, the delt is 0.0704525977462747
+the counter is 3
+the Is is 2.5370987663250144E-6, the k is 0.7951836897926292, the Vth is 1.7000872857731801, the second norm of v is 418.10723183301195, the delt is 0.08625995160901413
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 2.638232487899608E-6, the k is 0.8185367879299895, the Vth is 1.6504177306514423, the second norm of v is 434.95748576995896, the delt is 0.04788803905569132
+the counter is 3
+the Is is 2.6679597339227497E-6, the k is 0.8247836241964649, the Vth is 1.7201646443777396, the second norm of v is 447.9865482945724, the delt is 0.04785144390578305
+the counter is 3
+the Is is 2.719643033823552E-6, the k is 0.8363500550577675, the Vth is 1.730546032511808, the second norm of v is 464.9115662264554, the delt is 0.04309554830189077
+the counter is 3
+the Is is 2.752456669181929E-6, the k is 0.843453524900587, the Vth is 1.7814484312319239, the second norm of v is 477.9187685009233, the delt is 0.04163619293040236
+the counter is 2
+the Is is 2.7792983769161253E-6, the k is 0.8491440925229667, the Vth is 1.8310122725630156, the second norm of v is 488.83252054716746, the delt is 0.040889396969574714
+the counter is 2
+the Is is 2.8032182681496596E-6, the k is 0.8543692224852245, the Vth is 1.9261063469323383, the second norm of v is 501.6342742979894, the delt is 0.04547870166781373
+the counter is 2
+the Is is 2.8306552409834964E-6, the k is 0.8605377478270587, the Vth is 2.023082422600424, the second norm of v is 514.6835363581766, the delt is 0.06193768145175854
+the counter is 2
+the Is is 2.8630476962582974E-6, the k is 0.8680197791525043, the Vth is 2.1230519966084493, the second norm of v is 530.7290491014909, the delt is 0.09772468338836832
+the counter is 2
+the Is is 2.951844737515672E-6, the k is 0.8888376958362599, the Vth is 2.0645220292457864, the second norm of v is 540.9017531220878, the delt is 0.039128867266703976
+the counter is 2
+the Is is 2.990605447082805E-6, the k is 0.8980609875031409, the Vth is 2.0878706398718325, the second norm of v is 550.7385827366443, the delt is 0.03608210541457241
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.487863445674441E-6, the k is 0.42822201526060755, the Vth is 1.6173732230593414, the second norm of v is 477.5953317427707, the delt is 0.05607390184813379
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.575035357382842E-6, the k is 0.4322501074284307, the Vth is 1.6600713287247744, the second norm of v is 491.78159222531315, the delt is 0.05442554442345878
+the counter is 3
+the Is is 8.643984565610542E-6, the k is 0.4355199399417648, the Vth is 1.6995550003169289, the second norm of v is 502.6591556161321, the delt is 0.053724446847623536
+the counter is 3
+the Is is 8.72933195041893E-6, the k is 0.4388774223842525, the Vth is 1.786683462745263, the second norm of v is 516.0020848455359, the delt is 0.060526627130824
+the counter is 3
+the Is is 8.826965032751294E-6, the k is 0.4427690249960358, the Vth is 1.8761500833859643, the second norm of v is 531.4154906572547, the delt is 0.07485510427284757
+the counter is 3
+the Is is 8.939372935279618E-6, the k is 0.4472964180050655, the Vth is 1.9684241903224726, the second norm of v is 547.6029904535367, the delt is 0.104461246674248
+the counter is 3
+the Is is 9.071374039637879E-6, the k is 0.45266473996562673, the Vth is 2.0647522360486645, the second norm of v is 564.6784321519343, the delt is 0.16433130839906687
+the counter is 3
+the Is is 9.285852375797676E-6, the k is 0.4637936562730189, the Vth is 1.9981532717212755, the second norm of v is 582.358293265039, the delt is 0.04905954141195928
+the counter is 3
+the Is is 9.415258107718421E-6, the k is 0.4691467849619225, the Vth is 2.1014415990180773, the second norm of v is 593.5663502830618, the delt is 0.06344308649951426
+the counter is 3
+the Is is 9.52238736875393E-6, the k is 0.4747162222544672, the Vth is 2.115055033377299, the second norm of v is 604.7863692769881, the delt is 0.051798486233204044
+the counter is 2
+the Is is 9.547850104748442E-6, the k is 0.4767401573026719, the Vth is 2.114005969900523, the second norm of v is 608.6929148874584, the delt is 0.04767013437183728
+the counter is 2
+the Is is 9.650498841625838E-6, the k is 0.4809831391648065, the Vth is 2.215289785334209, the second norm of v is 616.7084481170755, the delt is 0.06633288086164378
+the counter is 2
+the Is is 9.785698730369044E-6, the k is 0.48667875284985795, the Vth is 2.3240208611224284, the second norm of v is 629.8682793889236, the delt is 0.10649828228935192
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 7.848058334174193E-6, the k is 0.4819291175075485, the Vth is 1.8992200628595866, the second norm of v is 536.3372121202394, the delt is 0.05942332755667559
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 7.941815632563736E-6, the k is 0.4862189039439887, the Vth is 1.9791244305691522, the second norm of v is 549.2179609326045, the delt is 0.07342840172320507
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.046853395598251E-6, the k is 0.49110275130798964, the Vth is 2.061327256711125, the second norm of v is 562.690516796662, the delt is 0.09735774544931666
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.166438981743403E-6, the k is 0.4967542037159684, the Vth is 2.146763209428541, the second norm of v is 577.6392931142042, the delt is 0.13398798133269058
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.305319863178974E-6, the k is 0.5034351808863551, the Vth is 2.2368905823950502, the second norm of v is 594.5965568961217, the delt is 0.18722819784713718
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.486913822449031E-6, the k is 0.514616422379257, the Vth is 2.1602034971210546, the second norm of v is 606.3172385988845, the delt is 0.04835471409976336
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.619536274735271E-6, the k is 0.5210856256636073, the Vth is 2.2540224749871376, the second norm of v is 618.8090131744451, the delt is 0.05793293246246729
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.68851424457525E-6, the k is 0.52587359602388, the Vth is 2.205532239177067, the second norm of v is 628.4398078025212, the delt is 0.03777435775910255
+the counter is 3
+the Is is 8.757645351474433E-6, the k is 0.5295739000737225, the Vth is 2.2451920751148, the second norm of v is 634.4607007378879, the delt is 0.03831824043171534
+the counter is 3
+the Is is 8.871831632334429E-6, the k is 0.5351305456561374, the Vth is 2.337038907107325, the second norm of v is 642.7673800980527, the delt is 0.046973425715299194
+the counter is 3
+the Is is 9.002655266923695E-6, the k is 0.5415771835679739, the Vth is 2.431440271244976, the second norm of v is 652.7447334589879, the delt is 0.06717593436725428
+the counter is 3
+the Is is 9.154159810492216E-6, the k is 0.5490909203688107, the Vth is 2.5288954480781554, the second norm of v is 663.9269004093437, the delt is 0.1179656163831693
+the counter is 3
+the Is is 9.337837734668108E-6, the k is 0.5582763883057539, the Vth is 2.6322229850495753, the second norm of v is 677.51747522069, the delt is 0.2189975402678767
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.461220138345943E-6, the k is 0.5424387392412865, the Vth is 2.10572270195518, the second norm of v is 588.0653559366737, the delt is 0.0463738955471091
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.568812405712618E-6, the k is 0.548150206223815, the Vth is 2.1865922585544246, the second norm of v is 599.0972067731376, the delt is 0.05287054353305923
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.664420192337603E-6, the k is 0.5542575203477258, the Vth is 2.1774435742930995, the second norm of v is 610.441092179261, the delt is 0.03991110278731745
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.733315466339937E-6, the k is 0.5584180457150923, the Vth is 2.1852980241036333, the second norm of v is 619.00160621748, the delt is 0.03584976224872987
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 7.811059132316526E-6, the k is 0.5625907606522177, the Vth is 2.239148420818015, the second norm of v is 625.5665609638735, the delt is 0.03728184968538034
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 7.913124777490725E-6, the k is 0.5680402006116365, the Vth is 2.3200166745316957, the second norm of v is 634.1646867288122, the delt is 0.04266661179209995
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.026067901500624E-6, the k is 0.574189321895311, the Vth is 2.402650200527745, the second norm of v is 643.8360557297997, the delt is 0.21691567082860297
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.150776920889903E-6, the k is 0.5810613642991653, the Vth is 2.4868092315001395, the second norm of v is 653.9114194017901, the delt is 0.07875065859788519
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.291291693158142E-6, the k is 0.5888954213836256, the Vth is 2.573401094604654, the second norm of v is 664.9286751190322, the delt is 0.1278502775450897
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.45445807274878E-6, the k is 0.5981167667027716, the Vth is 2.664213278211761, the second norm of v is 677.8997866081882, the delt is 0.19529299044629297
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.61921397218124E-6, the k is 0.6096509694168142, the Vth is 2.594177049400549, the second norm of v is 690.6059768457227, the delt is 0.0439423832006377
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.793316170764036E-6, the k is 0.6197891131639954, the Vth is 2.6941112817650867, the second norm of v is 700.7843734011141, the delt is 0.057751331335871174
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 4
+the Is is 8.802956854068589E-6, the k is 0.6215674047370963, the Vth is 2.622276051787945, the second norm of v is 707.4394751261252, the delt is 0.03197879856762286
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 6.962642207793863E-6, the k is 0.5906572840043689, the Vth is 2.280963752431616, the second norm of v is 610.7682545400592, the delt is 0.05397889104095918
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.066456061930902E-6, the k is 0.5966380366531022, the Vth is 2.355150157828996, the second norm of v is 622.259940814107, the delt is 0.06407877421143961
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.178712115075681E-6, the k is 0.603253635578624, the Vth is 2.4308221620684183, the second norm of v is 633.7867606389134, the delt is 0.084422240839849
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.300128157436668E-6, the k is 0.6105265684937619, the Vth is 2.507814751455812, the second norm of v is 645.1762918029686, the delt is 0.12828112459714203
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.43334783817672E-6, the k is 0.6186378356559089, the Vth is 2.5867688782140195, the second norm of v is 657.0889347848027, the delt is 0.20405742568609958
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.577718768417085E-6, the k is 0.6296653125850403, the Vth is 2.501199657244155, the second norm of v is 668.1345771618523, the delt is 0.039174370062302837
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.707300696468848E-6, the k is 0.6376004072826955, the Vth is 2.5836568639145, the second norm of v is 676.3258713783414, the delt is 0.05300468004156218
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.802815445278516E-6, the k is 0.6442738836154651, the Vth is 2.5790413984109017, the second norm of v is 686.0000516068602, the delt is 0.037483634137215754
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 7.840517835133019E-6, the k is 0.6467485632752925, the Vth is 2.562298650242691, the second norm of v is 691.6858630502901, the delt is 0.030403159055380272
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 7.949703936449175E-6, the k is 0.6532881550261067, the Vth is 2.6413284344898584, the second norm of v is 695.9083930309924, the delt is 0.03888899050738985
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.07803048106228E-6, the k is 0.6612164270617041, the Vth is 2.7242814745026616, the second norm of v is 703.3015474618235, the delt is 0.04832961359474976
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.23492489381337E-6, the k is 0.6713319162321916, the Vth is 2.814038045581617, the second norm of v is 713.6577159272676, the delt is 0.05825834125147738
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 8.414621828011853E-6, the k is 0.6832049048426194, the Vth is 2.9077590233484947, the second norm of v is 725.014020413301, the delt is 0.07990879034599334
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 6.659338858504436E-6, the k is 0.6497260828924278, the Vth is 2.393316416352504, the second norm of v is 644.570701203345, the delt is 0.0332492907281792
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 6.738611250114317E-6, the k is 0.6545087368736843, the Vth is 2.417308539850602, the second norm of v is 652.0391323882591, the delt is 0.031538517379877645
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 6.80263244036348E-6, the k is 0.6580830601039289, the Vth is 2.43819272906364, the second norm of v is 657.5516096332938, the delt is 0.0308680193527764
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 6.8969269116644684E-6, the k is 0.6636671574587749, the Vth is 2.507354999594441, the second norm of v is 663.1210552420632, the delt is 0.039101904141487204
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 6.998338487535234E-6, the k is 0.6698580775740541, the Vth is 2.5775935820789915, the second norm of v is 669.6922878622184, the delt is 0.052015931281266706
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.10926590693488E-6, the k is 0.6768480859145616, the Vth is 2.6495549438718227, the second norm of v is 677.8561846260295, the delt is 0.06711756793177501
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.235851993957897E-6, the k is 0.6851570062031274, the Vth is 2.725313519296263, the second norm of v is 688.0192841767768, the delt is 0.08178821743508088
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.38756093993339E-6, the k is 0.6956897055340238, the Vth is 2.808268231366484, the second norm of v is 700.3584968395492, the delt is 0.09417194804353995
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.560560576877344E-6, the k is 0.7081503144294664, the Vth is 2.8962579836338156, the second norm of v is 713.4174940739853, the delt is 0.11824361567615711
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.684329949613038E-6, the k is 0.7183929361138022, the Vth is 2.8139094221428946, the second norm of v is 723.0402112791915, the delt is 0.030556103398905916
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 7.832117882958226E-6, the k is 0.7286599078277556, the Vth is 2.896303126223845, the second norm of v is 731.0186462855979, the delt is 0.03678848403152418
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 5
+the Is is 7.91774888469557E-6, the k is 0.7348525483207612, the Vth is 2.8912296956111447, the second norm of v is 738.579913268091, the delt is 0.026701578298559365
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 4
+the Is is 7.962199177480586E-6, the k is 0.7378897911294389, the Vth is 2.882914202754588, the second norm of v is 743.464594025305, the delt is 0.022186416354276803
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.1061756879949293E-5, the k is 0.3571222041344644, the Vth is 2.606536108368494, the second norm of v is 735.6313518097558, the delt is 0.32092021998316367
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.1486060291234882E-5, the k is 0.3632270562848057, the Vth is 2.6890144987678353, the second norm of v is 746.3703577021015, the delt is 0.46776842517670064
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.1980244316970595E-5, the k is 0.37043833095542844, the Vth is 2.7780485338538234, the second norm of v is 758.3947953246213, the delt is 0.6814178105114943
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.2562031241657195E-5, the k is 0.3790800048338972, the Vth is 2.875536081462332, the second norm of v is 771.5446218576006, the delt is 1.1798976013554374
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 6
+the Is is 2.2531083223119183E-5, the k is 0.37968914775305745, the Vth is 2.76297568989219, the second norm of v is 780.9164218298906, the delt is 0.11380775369717092
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 2.2105320732138032E-5, the k is 0.3739739839306089, the Vth is 2.617356300178068, the second norm of v is 785.995217522231, the delt is 0.046810843288307716
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 2.2434220502355763E-5, the k is 0.3786238315498156, the Vth is 2.694021987967636, the second norm of v is 788.0005864507228, the delt is 0.060392180550085356
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 2.2814443803791303E-5, the k is 0.3840885030144576, the Vth is 2.7744057476179385, the second norm of v is 792.0841380631724, the delt is 0.07915615260770872
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 2.3251578056296655E-5, the k is 0.39047676341363596, the Vth is 2.858709918648407, the second norm of v is 797.7519347392619, the delt is 0.11042799013827934
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 2.3747590488961274E-5, the k is 0.39781682449810746, the Vth is 2.9464366560658886, the second norm of v is 804.4005585016414, the delt is 0.17773150397820991
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 2.431039867232018E-5, the k is 0.4061954079982958, the Vth is 3.0374830798008294, the second norm of v is 811.8608422824427, the delt is 0.33901963499437016
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 2.444117500911463E-5, the k is 0.406888730363589, the Vth is 3.0710776457775446, the second norm of v is 810.7631586379854, the delt is 0.6698239190034652
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 2.5778232856847604E-5, the k is 0.42811760838986773, the Vth is 3.2401173006160104, the second norm of v is 831.5558746415741, the delt is 0.9727171630646387
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 7
+the Is is 1.9620831273173406E-5, the k is 0.4066222959761426, the Vth is 2.6942442669079094, the second norm of v is 773.0647349192225, the delt is 0.05835993478933378
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 7
+the Is is 2.954566439652805E-5, the k is 0.602030703600445, the Vth is 3.8860577385920005, the second norm of v is 903.7505894178224, the delt is 0.5187836335060879
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 1.9815393419052912E-5, the k is 0.4094943319204113, the Vth is 2.717105923951676, the second norm of v is 778.9323724614145, the delt is 0.05485081533155299
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.012825974618767E-5, the k is 0.4146798659254758, the Vth is 2.787829600946536, the second norm of v is 783.3044309443719, the delt is 0.06767232441105478
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.0476080297639118E-5, the k is 0.4205584497248762, the Vth is 2.861034641562545, the second norm of v is 788.6812332858873, the delt is 0.0881983044064977
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.0857781381576654E-5, the k is 0.4270976234942713, the Vth is 2.936066238767506, the second norm of v is 794.6009909338566, the delt is 0.128805729956782
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.127689671169543E-5, the k is 0.43433147309092435, the Vth is 3.0127297144062184, the second norm of v is 800.9589201568476, the delt is 0.21511662883055865
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.1746264668339092E-5, the k is 0.44246622570359057, the Vth is 3.091908941962346, the second norm of v is 808.0956858367678, the delt is 0.3763412987205398
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.2291963369793637E-5, the k is 0.45196823685639403, the Vth is 3.176015910131323, the second norm of v is 816.5861642645581, the delt is 0.5697124538243483
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.2961004214535407E-5, the k is 0.4637641240519014, the Vth is 3.2698747799736796, the second norm of v is 826.9906800289764, the delt is 0.6738234461601733
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 6
+the Is is 2.2956226356412697E-5, the k is 0.46459833426812086, the Vth is 3.177804901234061, the second norm of v is 839.210027392785, the delt is 0.1128911868718099
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 2.2441626510016616E-5, the k is 0.45576092649291866, the Vth is 3.049291920166334, the second norm of v is 845.5357774624625, the delt is 0.043853255311460025
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 5
+the Is is 2.2844010220961613E-5, the k is 0.462594827126803, the Vth is 3.125938124966349, the second norm of v is 845.1899289752196, the delt is 0.06630198383593067
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.833878812632247E-5, the k is 0.45058856219426807, the Vth is 2.918142733449255, the second norm of v is 777.6723817208377, the delt is 0.14306271362723638
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.8688307664357737E-5, the k is 0.4573453996088704, the Vth is 2.986609685115536, the second norm of v is 784.6064401665029, the delt is 0.22379406601734436
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.9066932903807492E-5, the k is 0.464723750213589, the Vth is 3.0563732444669816, the second norm of v is 791.8109209497511, the delt is 0.383418927574622
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.948558245557214E-5, the k is 0.4729384015105222, the Vth is 3.1284183391746496, the second norm of v is 799.6795398326676, the delt is 0.6198023646184225
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.996622245065515E-5, the k is 0.48246482079964503, the Vth is 3.2052009862282644, the second norm of v is 808.6902231600304, the delt is 0.7973414441129574
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.994204692997696E-5, the k is 0.482406736508231, the Vth is 3.100446877517696, the second norm of v is 819.0823376688857, the delt is 0.103138905441058
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 7
+the Is is 2.0441487726359255E-5, the k is 0.49252308004025896, the Vth is 3.183171234339523, the second norm of v is 826.2578214888334, the delt is 0.13171568723364568
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 1.9902127282998466E-5, the k is 0.48108719075202, the Vth is 3.039179500397871, the second norm of v is 828.588573496756, the delt is 0.0471352336862548
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.023433299790962E-5, the k is 0.4873740257065808, the Vth is 3.1064507612038823, the second norm of v is 829.7139540442928, the delt is 0.06882038503288385
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 1.9234454705951706E-5, the k is 0.4607257021684378, the Vth is 3.0130083457020005, the second norm of v is 794.7036394360304, the delt is 0.171659864087915
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.1091068676726075E-5, the k is 0.5041639635277814, the Vth is 3.2551203760001073, the second norm of v is 838.1282558743005, the delt is 0.10912181109204742
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.164884651499028E-5, the k is 0.5156232555672906, the Vth is 3.339601687697861, the second norm of v is 845.0294481250495, the delt is 0.12676863572562053
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.2279299034109077E-5, the k is 0.5288953505682443, the Vth is 3.428170782063845, the second norm of v is 852.1821491884388, the delt is 0.19890698303806398
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.7024781626511177E-5, the k is 0.4900506526611007, the Vth is 2.897659830038949, the second norm of v is 799.3807835721401, the delt is 0.033970786816720146
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.7274826659755942E-5, the k is 0.4949419034556271, the Vth is 2.9557653638863997, the second norm of v is 801.3381711655633, the delt is 0.04498131871040737
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.754174497975811E-5, the k is 0.5002572789971945, the Vth is 3.0145236324335833, the second norm of v is 803.8195904594961, the delt is 0.06432532871686458
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.5996992248393802E-5, the k is 0.45266422428304004, the Vth is 2.8016413512818925, the second norm of v is 743.6459910431649, the delt is 0.20450380555329895
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.8152445893002468E-5, the k is 0.5127799703655894, the Vth is 3.136539513591505, the second norm of v is 811.4036389966548, the delt is 0.12843995983486967
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.852381695522927E-5, the k is 0.5206968689460496, the Vth is 3.2029340235550343, the second norm of v is 817.1966976257902, the delt is 0.15625333364883454
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.8966034106881152E-5, the k is 0.5305106348522465, the Vth is 3.276115791090077, the second norm of v is 824.6257102861484, the delt is 0.1689021168667234
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 2.0945956583302214E-5, the k is 0.5837124630888929, the Vth is 3.5150515897838934, the second norm of v is 861.2208992807489, the delt is 0.20449168224069295
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 2.1198971310028006E-5, the k is 0.588995385540575, the Vth is 3.5575895673667253, the second norm of v is 861.5814504564597, the delt is 0.46762171212609427
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 2.067665153603864E-5, the k is 0.5709949691662471, the Vth is 3.524918813469575, the second norm of v is 849.0333344546252, the delt is 1.2425834715606154
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 8
+the Is is NaN, the k is NaN, the Vth is NaN, the second norm of v is NaN, the delt is NaN
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 7
+the Is is 2.098875902738005E-5, the k is 0.5775073949523537, the Vth is 3.4866156098761922, the second norm of v is 862.1424581401794, the delt is 0.12704795202794641
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 6
+the Is is 2.042450682840845E-5, the k is 0.5628518673015934, the Vth is 3.364498800711165, the second norm of v is 864.6572222082897, the delt is 0.037244654199678186
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 8
+the Is is 1.6573525410814396E-5, the k is 0.5455277407491559, the Vth is 3.226526083086075, the second norm of v is 802.5318309468623, the delt is 0.3604795012880966
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 8
+the Is is 1.7001221008802732E-5, the k is 0.555852899033783, the Vth is 3.296886011568886, the second norm of v is 811.5992915826777, the delt is 0.3496815757419315
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 8
+the Is is 1.7006819469406628E-5, the k is 0.5556475478974433, the Vth is 3.1924354601837654, the second norm of v is 820.9702149156716, the delt is 0.07476561323250158
+V does not have quadratic convergence
+Delt has quadratic convergence
+the counter is 8
+the Is is 1.740819256229916E-5, the k is 0.5655387126714119, the Vth is 3.262809851032859, the second norm of v is 827.6779914088868, the delt is 0.07846230735895363
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.6989420305352723E-5, the k is 0.5523047341578803, the Vth is 3.1186469125976175, the second norm of v is 831.0906254163012, the delt is 0.036601456031232105
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.727226289535648E-5, the k is 0.5583991996813766, the Vth is 3.177085928830659, the second norm of v is 832.3990819779369, the delt is 0.04500995862883318
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.7599419070650566E-5, the k is 0.5658682935339272, the Vth is 3.239754853346853, the second norm of v is 835.4944142055683, the delt is 0.05113683941958798
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.7969868032007445E-5, the k is 0.5747536859163622, the Vth is 3.3062418249815693, the second norm of v is 839.8939419283438, the delt is 0.05546216377108471
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.836879254032398E-5, the k is 0.5845758495022911, the Vth is 3.3740345145798716, the second norm of v is 844.620188239701, the delt is 0.06475719538257255
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.878801022787869E-5, the k is 0.5949905872143053, the Vth is 3.4413189245825624, the second norm of v is 849.0593569585016, the delt is 0.097485635508051
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.922738457259962E-5, the k is 0.6059456009674105, the Vth is 3.5074177749034683, the second norm of v is 853.2340887476813, the delt is 0.20939622831494467
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 1.968573050838268E-5, the k is 0.6173261734145076, the Vth is 3.5716871301907065, the second norm of v is 857.4954335817066, the delt is 0.5536712024553403
+V does not have quadratic convergence
+Delt does not have quadratic convergence
+the counter is 7
+the Is is 2.0193042638719542E-5, the k is 0.6297619361369186, the Vth is 3.6366255457454097, the second norm of v is 862.5893889301606, the delt is 1.2104060033258777
+
+
+
+

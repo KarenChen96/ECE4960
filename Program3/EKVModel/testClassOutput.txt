@@ -1,0 +1,31 @@
+1
+the test for second norm is passed
+
+2
+the value of X is :[83.00000000000006, -0.9999999999999996, 86.75000000000009, 0.2, -76.00000000000006]
+the second norm is 2.2737367544323206E-13
+the test for matrix solver is passed
+
+3
+the second norm is 0.0
+the test for transDtod is passed
+
+4
+V has quadratic convergence
+Delt has quadratic convergence
+
+5
+the norm for f1 is 2.1076698758504264E-7
+the norm for f2 is 2.1076698758504264E-7
+the norm for f3 is 2.1076698758504264E-7
+
+6
+the norm for the partial derivative of f1 with respect to Is is 4.938239301450764E-4
+the norm for the partial derivative of f2 with respect to Is is 8.076404847123797E-6
+the norm for the partial derivative of f3 with respect to Is is 3.3602546680211454E-4
+
+7
+the norm of Id is 0.0
+
+8
+the norm of V is 5.13228471103154E-5
