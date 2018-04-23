@@ -13,7 +13,7 @@ Forward Euler method, RK4 method and RK34 method.
 
 5. test.java is the file containing various type of norm calculations (of vectors) that we will use in ODEModel.java.
 
-5. PlotingCode.ipynb is the code for all ploting works in this assignment.
+6. PlotingCode.ipynb is the code for ploting works in this assignment.
 
 Other folders:
 1. ValidationForODESolver contains the output (the plot normalized error vs time for different solvers) of the 
@@ -22,7 +22,5 @@ validation of ODE solver(task3)
 2. SimulationPlot&Output contains the plot for v1(t) and v2(t) in RC circuit(task4)
 
 3. AmplifierOutput&Plot contains the output of CS amplifier circuit (task5)
-
-
 
 
