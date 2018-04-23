@@ -2,8 +2,7 @@
 //  
 //  Calculate second norm
 //
-//  Created by Xiaoixng Yan on 03/07/2018.
-//  Copyright © 2018 Xiaoxing Yan. All rights reserved.
+//  Created by Xiaoixng Yan & Chun Chen on 03/07/2018.
  */
 
 
