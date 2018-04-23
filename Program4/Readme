@@ -16,11 +16,10 @@ Forward Euler method, RK4 method and RK34 method.
 6. PlotingCode.ipynb is the code for ploting works in this assignment.
 
 Other folders:
-1. ValidationForODESolver contains the output (the plot normalized error vs time for different solvers) of the 
-validation of ODE solver(task3)
+1. Task3 contains the output (the plot normalized error vs time for different solvers) of the validation of ODE solver(task3)
 
-2. SimulationPlot&Output contains the plot for v1(t) and v2(t) in RC circuit(task4)
+2. Task4 contains the plot for v1(t) and v2(t) in RC circuit(task4)
 
-3. AmplifierOutput&Plot contains the output of CS amplifier circuit (task5)
+3. Task5 contains the output of v1(t) and v2(t) in CS amplifier circuit (task5)
 
 
