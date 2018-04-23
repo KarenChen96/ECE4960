@@ -1,0 +1,37 @@
+******************************Forward Euler method******************************
+t is 0,  The calculted x is 2,  The relative error is 0
+t is 1.0,  The calculted x is [5.0],  The relative error is 0.1928494698820228
+t is 2.0,  The calculted x is [11.402163713969871],  The relative error is 0.23186312991202676
+t is 3.0,  The calculted x is [25.513211554565395],  The relative error is 0.2424182253085716
+t is 4.0,  The calculted x is [56.84931129984912],  The relative error is 0.24541951029017434
+t is 5.0,  The calculted x is [126.55477643836197],  The relative error is 0.24627562234137895
+t is 6.0,  The calculted x is [281.6699883517579],  The relative error is 0.24651829975048548
+t is 7.0,  The calculted x is [626.8766642508187],  The relative error is 0.24658660110032954
+t is 8.0,  The calculted x is [1395.1439618300205],  The relative error is 0.2466057063257411
+t is 9.0,  The calculted x is [3104.9521324033394],  The relative error is 0.24661102376892222
+
+******************************RK34 method with time adaptation******************************
+
+t is 0,  The calculted x is 2,  The relative error is 0
+t is 1.0,  The calculted x is [6.1948687831623515],  The relative error is 3.832446816004122E-5
+t is 2.0,  The calculted x is [14.84380089662994],  The relative error is 8.152226702779424E-6
+t is 3.0,  The calculted x is [33.67593637121954],  The relative error is 3.668350647548473E-5
+t is 4.0,  The calculted x is [75.33522637836803],  The relative error is 4.95922781671362E-5
+t is 5.0,  The calculted x is [167.89674180238217],  The relative error is 5.4594639931689E-5
+t is 6.0,  The calculted x is [373.8035182597598],  The relative error is 5.6370415025609E-5
+t is 7.0,  The calculted x is [832.0013336840309],  The relative error is 5.6967427423428856E-5
+t is 8.0,  The calculted x is [1851.7053098886504],  The relative error is 5.7160978198635674E-5
+t is 9.0,  The calculted x is [4121.077635035885],  The relative error is 5.722213009628162E-5
+
+******************************RK34 method without time adaptation******************************
+	
+t is 0,     The calculted x is 2,  The relative error is 0
+t is 1.0,  The calculted x is [6.191904453893789],  The relative error is 4.402075199527954E-4
+t is 2.0,  The calculted x is [14.82585035884112],  The relative error is 0.0012174376096697776
+t is 3.0,  The calculted x is [33.623457521745294],  The relative error is 0.0015949749757182496
+t is 4.0,  The calculted x is [75.2075012434494],  The relative error is 0.0017449319868016093
+t is 5.0,  The calculted x is [167.60386533873879],  The relative error is 0.0017988838442034832
+t is 6.0,  The calculted x is [373.1452907108343],  The relative error is 0.0018171629496427943
+t is 7.0,  The calculted x is [830.5318136310135],  The relative error is 0.001823114041316323
+t is 8.0,  The calculted x is [1848.4316096480632],  The relative error is 0.0018249979526878423
+t is 9.0,  The calculted x is [4113.789669138883],  The relative error is 0.0018255821343128148
