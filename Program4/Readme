@@ -1,0 +1,18 @@
+Programming Assignment 4: Compact SPICE for ODE Solution
+
+Code components:
+
+1. mainP4.java contains implementation with respect to two circuits in Assignment 4 using given parameter.
+
+2. ODEModel.java contains all steps we implement to construct ODE solver, inlcuding three different methods: 
+Forward Euler method, RK4 method and RK34 method.
+
+3. rowFunction.java contains all vectors-related methods/fucntions that we may use during build up the solver in ODEModel.java.
+
+4. test.java is the class for testing of ODE solvers and helper functions.
+
+
+Other files:
+1. 
+
+
