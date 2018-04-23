@@ -4,10 +4,9 @@
 //Created on 3/07/2018
 //Edited on 4/11/2018
 //
-//Authors: Xiaoxing Yan
+//Authors: Xiaoxing Yan & Chun Chen
 //Platforms:Eclipse
 //MAC OS
-//  Copyright © 2018 Xiaoxing Yan. All rights reserved.
  */
 
 
