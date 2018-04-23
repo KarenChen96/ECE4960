@@ -7,12 +7,22 @@ Code components:
 2. ODEModel.java contains all steps we implement to construct ODE solver, inlcuding three different methods: 
 Forward Euler method, RK4 method and RK34 method.
 
-3. rowFunction.java contains vectors-related methods/fucntions that we may use during building up the solver in ODEModel.java.
+3. rowFunction.java contains vectors-related methods/fucntions that may be used during we build up the solver in ODEModel.java.
 
-4. test.java is the class for testing of ODE solvers and helper functions.
+4. testClass.java is the class for testing of ODE solvers and helper functions.
+
+5. test.java is the file containing various type of norm calculations (of vectors) that we will use in ODEModel.java.
+
+5. PlotingCode.ipynb is the code for all ploting works in this assignment.
+
+Other folders:
+1. ValidationForODESolver contains the output (the plot normalized error vs time for different solvers) of the 
+validation of ODE solver(task3)
+
+2. SimulationPlot&Output contains the plot for v1(t) and v2(t) in RC circuit(task4)
+
+3. Amplifier contains the output of CS amplifier circuit (task5)
 
 
-Other files:
-1. 
 
 
