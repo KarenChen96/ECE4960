@@ -21,7 +21,7 @@ validation of ODE solver(task3)
 
 2. SimulationPlot&Output contains the plot for v1(t) and v2(t) in RC circuit(task4)
 
-3. Amplifier contains the output of CS amplifier circuit (task5)
+3. AmplifierOutput&Plot contains the output of CS amplifier circuit (task5)
 
 
 
