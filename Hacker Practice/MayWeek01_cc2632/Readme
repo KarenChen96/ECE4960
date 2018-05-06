@@ -1,0 +1,4 @@
+Two Hacker Practice in lecture 7 part2.
+ 
+(1) Construct the rooftop functions to approximate fx=sin(x)
+(2) Use the finite method with the rooftop function to solve the elliptical PDE.
