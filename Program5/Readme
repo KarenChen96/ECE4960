@@ -1,0 +1,17 @@
+
+There are four mina java files in this program.
+
+PDESolver: The main function for solver implementation. It can receive different choice of time discretization methods and dimensions. 
+
+Main: The throughout implementation of the PDESolver, with different initial condition ( D = 0.2, 0.05), different dimensions (D = 1, D = 2) and different discretization methods.
+
+Validation: This is the file for validating the correctness of our method. Due to that we don’t have ground truth of the temperature distribution, we do the validation according to the Wilkinson Validation theory, which means comparing the results obtained by different methods.
+
+TestClass: In test class, we validate and test our iterative matrix solver. Then we test the helper function which is to construct parameter matrix in our PDE Solver.
+
+Other files (matrixFunction.java, rowFunciton.java, test.java) are inherited from previous program assignment, they contain some help functions that will be used in the program.
+
+Txt file
+TestOutput.txt: The output of TestClass.java
+Output.txt: The output of Main.java
+Validation_output.txt: The output of Validation.java
